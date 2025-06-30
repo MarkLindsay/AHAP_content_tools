@@ -1,0 +1,6 @@
+author_handles.json
+__pycache__
+import_trt_file/test_output/*
+import_trt_file/to_be_imported/*
+AHAP_Versions/working
+*.code-workspace

@@ -1,0 +1,4868 @@
+{
+    "100_0": {
+        "animated_object": "100",
+        "animation_type": "0",
+        "author": "818439E626",
+        "secondary_type": null
+    },
+    "100_1": {
+        "animated_object": "100",
+        "animation_type": "1",
+        "author": "818439E626",
+        "secondary_type": null
+    },
+    "100_2": {
+        "animated_object": "100",
+        "animation_type": "2",
+        "author": "818439E626",
+        "secondary_type": null
+    },
+    "100_4": {
+        "animated_object": "100",
+        "animation_type": "4",
+        "author": "818439E626",
+        "secondary_type": null
+    },
+    "100_5": {
+        "animated_object": "100",
+        "animation_type": "5",
+        "author": "818439E626",
+        "secondary_type": null
+    },
+    "101_0": {
+        "animated_object": "101",
+        "animation_type": "0",
+        "author": "818439E626",
+        "secondary_type": null
+    },
+    "101_1": {
+        "animated_object": "101",
+        "animation_type": "1",
+        "author": "818439E626",
+        "secondary_type": null
+    },
+    "101_2": {
+        "animated_object": "101",
+        "animation_type": "2",
+        "author": "818439E626",
+        "secondary_type": null
+    },
+    "101_4": {
+        "animated_object": "101",
+        "animation_type": "4",
+        "author": "818439E626",
+        "secondary_type": null
+    },
+    "101_5": {
+        "animated_object": "101",
+        "animation_type": "5",
+        "author": "818439E626",
+        "secondary_type": null
+    },
+    "101_7x0": {
+        "animated_object": "101",
+        "animation_type": "0",
+        "author": "818439E626",
+        "secondary_type": "7"
+    },
+    "101_7x1": {
+        "animated_object": "101",
+        "animation_type": "1",
+        "author": "818439E626",
+        "secondary_type": "7"
+    },
+    "101_7x2": {
+        "animated_object": "101",
+        "animation_type": "2",
+        "author": "818439E626",
+        "secondary_type": "7"
+    },
+    "101_7x3": {
+        "animated_object": "101",
+        "animation_type": "3",
+        "author": "818439E626",
+        "secondary_type": "7"
+    },
+    "101_7x4": {
+        "animated_object": "101",
+        "animation_type": "4",
+        "author": "818439E626",
+        "secondary_type": "7"
+    },
+    "102_0": {
+        "animated_object": "102",
+        "animation_type": "0",
+        "author": "5ED1F9012B",
+        "secondary_type": null
+    },
+    "102_1": {
+        "animated_object": "102",
+        "animation_type": "1",
+        "author": "5ED1F9012B",
+        "secondary_type": null
+    },
+    "102_2": {
+        "animated_object": "102",
+        "animation_type": "2",
+        "author": "5ED1F9012B",
+        "secondary_type": null
+    },
+    "102_4": {
+        "animated_object": "102",
+        "animation_type": "4",
+        "author": "5ED1F9012B",
+        "secondary_type": null
+    },
+    "102_5": {
+        "animated_object": "102",
+        "animation_type": "5",
+        "author": "5ED1F9012B",
+        "secondary_type": null
+    },
+    "102_7x0": {
+        "animated_object": "102",
+        "animation_type": "0",
+        "author": "818439E626",
+        "secondary_type": "7"
+    },
+    "102_7x1": {
+        "animated_object": "102",
+        "animation_type": "1",
+        "author": "818439E626",
+        "secondary_type": "7"
+    },
+    "102_7x2": {
+        "animated_object": "102",
+        "animation_type": "2",
+        "author": "818439E626",
+        "secondary_type": "7"
+    },
+    "102_7x3": {
+        "animated_object": "102",
+        "animation_type": "3",
+        "author": "818439E626",
+        "secondary_type": "7"
+    },
+    "102_7x4": {
+        "animated_object": "102",
+        "animation_type": "4",
+        "author": "818439E626",
+        "secondary_type": "7"
+    },
+    "106_0": {
+        "animated_object": "106",
+        "animation_type": "0",
+        "author": "102CA969F5",
+        "secondary_type": null
+    },
+    "106_1": {
+        "animated_object": "106",
+        "animation_type": "1",
+        "author": "102CA969F5",
+        "secondary_type": null
+    },
+    "106_2": {
+        "animated_object": "106",
+        "animation_type": "2",
+        "author": "102CA969F5",
+        "secondary_type": null
+    },
+    "106_4": {
+        "animated_object": "106",
+        "animation_type": "4",
+        "author": "102CA969F5",
+        "secondary_type": null
+    },
+    "106_5": {
+        "animated_object": "106",
+        "animation_type": "5",
+        "author": "102CA969F5",
+        "secondary_type": null
+    },
+    "108_0": {
+        "animated_object": "108",
+        "animation_type": "0",
+        "author": "072477BB4E",
+        "secondary_type": null
+    },
+    "108_1": {
+        "animated_object": "108",
+        "animation_type": "1",
+        "author": "072477BB4E",
+        "secondary_type": null
+    },
+    "108_2": {
+        "animated_object": "108",
+        "animation_type": "2",
+        "author": "072477BB4E",
+        "secondary_type": null
+    },
+    "108_4": {
+        "animated_object": "108",
+        "animation_type": "4",
+        "author": "072477BB4E",
+        "secondary_type": null
+    },
+    "108_5": {
+        "animated_object": "108",
+        "animation_type": "5",
+        "author": "072477BB4E",
+        "secondary_type": null
+    },
+    "109_0": {
+        "animated_object": "109",
+        "animation_type": "0",
+        "author": "072477BB4E",
+        "secondary_type": null
+    },
+    "109_1": {
+        "animated_object": "109",
+        "animation_type": "1",
+        "author": "072477BB4E",
+        "secondary_type": null
+    },
+    "109_2": {
+        "animated_object": "109",
+        "animation_type": "2",
+        "author": "072477BB4E",
+        "secondary_type": null
+    },
+    "109_4": {
+        "animated_object": "109",
+        "animation_type": "4",
+        "author": "072477BB4E",
+        "secondary_type": null
+    },
+    "109_5": {
+        "animated_object": "109",
+        "animation_type": "5",
+        "author": "072477BB4E",
+        "secondary_type": null
+    },
+    "10_0": {
+        "animated_object": "10",
+        "animation_type": "0",
+        "author": null,
+        "secondary_type": null
+    },
+    "10_1": {
+        "animated_object": "10",
+        "animation_type": "1",
+        "author": null,
+        "secondary_type": null
+    },
+    "10_2": {
+        "animated_object": "10",
+        "animation_type": "2",
+        "author": null,
+        "secondary_type": null
+    },
+    "10_4": {
+        "animated_object": "10",
+        "animation_type": "4",
+        "author": null,
+        "secondary_type": null
+    },
+    "10_5": {
+        "animated_object": "10",
+        "animation_type": "5",
+        "author": null,
+        "secondary_type": null
+    },
+    "10_7x0": {
+        "animated_object": "10",
+        "animation_type": "0",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "10_7x1": {
+        "animated_object": "10",
+        "animation_type": "1",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "10_7x2": {
+        "animated_object": "10",
+        "animation_type": "2",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "10_7x3": {
+        "animated_object": "10",
+        "animation_type": "3",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "10_7x4": {
+        "animated_object": "10",
+        "animation_type": "4",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "116_0": {
+        "animated_object": "116",
+        "animation_type": "0",
+        "author": "5ED1F9012B",
+        "secondary_type": null
+    },
+    "116_1": {
+        "animated_object": "116",
+        "animation_type": "1",
+        "author": "5ED1F9012B",
+        "secondary_type": null
+    },
+    "116_2": {
+        "animated_object": "116",
+        "animation_type": "2",
+        "author": "5ED1F9012B",
+        "secondary_type": null
+    },
+    "116_4": {
+        "animated_object": "116",
+        "animation_type": "4",
+        "author": "5ED1F9012B",
+        "secondary_type": null
+    },
+    "116_5": {
+        "animated_object": "116",
+        "animation_type": "5",
+        "author": "5ED1F9012B",
+        "secondary_type": null
+    },
+    "11_0": {
+        "animated_object": "11",
+        "animation_type": "0",
+        "author": null,
+        "secondary_type": null
+    },
+    "11_1": {
+        "animated_object": "11",
+        "animation_type": "1",
+        "author": null,
+        "secondary_type": null
+    },
+    "11_2": {
+        "animated_object": "11",
+        "animation_type": "2",
+        "author": null,
+        "secondary_type": null
+    },
+    "11_4": {
+        "animated_object": "11",
+        "animation_type": "4",
+        "author": null,
+        "secondary_type": null
+    },
+    "11_5": {
+        "animated_object": "11",
+        "animation_type": "5",
+        "author": null,
+        "secondary_type": null
+    },
+    "11_7x0": {
+        "animated_object": "11",
+        "animation_type": "0",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "11_7x1": {
+        "animated_object": "11",
+        "animation_type": "1",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "11_7x2": {
+        "animated_object": "11",
+        "animation_type": "2",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "11_7x3": {
+        "animated_object": "11",
+        "animation_type": "3",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "11_7x4": {
+        "animated_object": "11",
+        "animation_type": "4",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "122_0": {
+        "animated_object": "122",
+        "animation_type": "0",
+        "author": "A3768E20D8",
+        "secondary_type": null
+    },
+    "122_1": {
+        "animated_object": "122",
+        "animation_type": "1",
+        "author": "A3768E20D8",
+        "secondary_type": null
+    },
+    "122_2": {
+        "animated_object": "122",
+        "animation_type": "2",
+        "author": "A3768E20D8",
+        "secondary_type": null
+    },
+    "122_4": {
+        "animated_object": "122",
+        "animation_type": "4",
+        "author": "A3768E20D8",
+        "secondary_type": null
+    },
+    "122_5": {
+        "animated_object": "122",
+        "animation_type": "5",
+        "author": "A3768E20D8",
+        "secondary_type": null
+    },
+    "122_7x0": {
+        "animated_object": "122",
+        "animation_type": "0",
+        "author": "A3768E20D8",
+        "secondary_type": "7"
+    },
+    "122_7x1": {
+        "animated_object": "122",
+        "animation_type": "1",
+        "author": "A3768E20D8",
+        "secondary_type": "7"
+    },
+    "122_7x2": {
+        "animated_object": "122",
+        "animation_type": "2",
+        "author": "A3768E20D8",
+        "secondary_type": "7"
+    },
+    "122_7x3": {
+        "animated_object": "122",
+        "animation_type": "3",
+        "author": "A3768E20D8",
+        "secondary_type": "7"
+    },
+    "122_7x4": {
+        "animated_object": "122",
+        "animation_type": "4",
+        "author": "A3768E20D8",
+        "secondary_type": "7"
+    },
+    "12_0": {
+        "animated_object": "12",
+        "animation_type": "0",
+        "author": null,
+        "secondary_type": null
+    },
+    "12_1": {
+        "animated_object": "12",
+        "animation_type": "1",
+        "author": null,
+        "secondary_type": null
+    },
+    "12_2": {
+        "animated_object": "12",
+        "animation_type": "2",
+        "author": null,
+        "secondary_type": null
+    },
+    "12_4": {
+        "animated_object": "12",
+        "animation_type": "4",
+        "author": null,
+        "secondary_type": null
+    },
+    "12_5": {
+        "animated_object": "12",
+        "animation_type": "5",
+        "author": null,
+        "secondary_type": null
+    },
+    "12_7x0": {
+        "animated_object": "12",
+        "animation_type": "0",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "12_7x1": {
+        "animated_object": "12",
+        "animation_type": "1",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "12_7x2": {
+        "animated_object": "12",
+        "animation_type": "2",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "12_7x3": {
+        "animated_object": "12",
+        "animation_type": "3",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "12_7x4": {
+        "animated_object": "12",
+        "animation_type": "4",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "134_0": {
+        "animated_object": "134",
+        "animation_type": "0",
+        "author": "818439E626",
+        "secondary_type": null
+    },
+    "134_1": {
+        "animated_object": "134",
+        "animation_type": "1",
+        "author": "818439E626",
+        "secondary_type": null
+    },
+    "134_2": {
+        "animated_object": "134",
+        "animation_type": "2",
+        "author": "818439E626",
+        "secondary_type": null
+    },
+    "134_4": {
+        "animated_object": "134",
+        "animation_type": "4",
+        "author": "818439E626",
+        "secondary_type": null
+    },
+    "134_5": {
+        "animated_object": "134",
+        "animation_type": "5",
+        "author": "818439E626",
+        "secondary_type": null
+    },
+    "13_0": {
+        "animated_object": "13",
+        "animation_type": "0",
+        "author": null,
+        "secondary_type": null
+    },
+    "13_1": {
+        "animated_object": "13",
+        "animation_type": "1",
+        "author": null,
+        "secondary_type": null
+    },
+    "13_2": {
+        "animated_object": "13",
+        "animation_type": "2",
+        "author": null,
+        "secondary_type": null
+    },
+    "13_4": {
+        "animated_object": "13",
+        "animation_type": "4",
+        "author": null,
+        "secondary_type": null
+    },
+    "13_5": {
+        "animated_object": "13",
+        "animation_type": "5",
+        "author": null,
+        "secondary_type": null
+    },
+    "13_7x0": {
+        "animated_object": "13",
+        "animation_type": "0",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "13_7x1": {
+        "animated_object": "13",
+        "animation_type": "1",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "13_7x2": {
+        "animated_object": "13",
+        "animation_type": "2",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "13_7x3": {
+        "animated_object": "13",
+        "animation_type": "3",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "13_7x4": {
+        "animated_object": "13",
+        "animation_type": "4",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "14_0": {
+        "animated_object": "14",
+        "animation_type": "0",
+        "author": null,
+        "secondary_type": null
+    },
+    "14_1": {
+        "animated_object": "14",
+        "animation_type": "1",
+        "author": null,
+        "secondary_type": null
+    },
+    "14_2": {
+        "animated_object": "14",
+        "animation_type": "2",
+        "author": null,
+        "secondary_type": null
+    },
+    "14_4": {
+        "animated_object": "14",
+        "animation_type": "4",
+        "author": null,
+        "secondary_type": null
+    },
+    "14_5": {
+        "animated_object": "14",
+        "animation_type": "5",
+        "author": null,
+        "secondary_type": null
+    },
+    "14_7x0": {
+        "animated_object": "14",
+        "animation_type": "0",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "14_7x1": {
+        "animated_object": "14",
+        "animation_type": "1",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "14_7x2": {
+        "animated_object": "14",
+        "animation_type": "2",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "14_7x3": {
+        "animated_object": "14",
+        "animation_type": "3",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "14_7x4": {
+        "animated_object": "14",
+        "animation_type": "4",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "15_0": {
+        "animated_object": "15",
+        "animation_type": "0",
+        "author": null,
+        "secondary_type": null
+    },
+    "15_1": {
+        "animated_object": "15",
+        "animation_type": "1",
+        "author": null,
+        "secondary_type": null
+    },
+    "15_2": {
+        "animated_object": "15",
+        "animation_type": "2",
+        "author": null,
+        "secondary_type": null
+    },
+    "15_4": {
+        "animated_object": "15",
+        "animation_type": "4",
+        "author": null,
+        "secondary_type": null
+    },
+    "15_5": {
+        "animated_object": "15",
+        "animation_type": "5",
+        "author": null,
+        "secondary_type": null
+    },
+    "15_7x0": {
+        "animated_object": "15",
+        "animation_type": "0",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "15_7x1": {
+        "animated_object": "15",
+        "animation_type": "1",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "15_7x2": {
+        "animated_object": "15",
+        "animation_type": "2",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "15_7x3": {
+        "animated_object": "15",
+        "animation_type": "3",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "15_7x4": {
+        "animated_object": "15",
+        "animation_type": "4",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "16_0": {
+        "animated_object": "16",
+        "animation_type": "0",
+        "author": null,
+        "secondary_type": null
+    },
+    "16_1": {
+        "animated_object": "16",
+        "animation_type": "1",
+        "author": null,
+        "secondary_type": null
+    },
+    "16_2": {
+        "animated_object": "16",
+        "animation_type": "2",
+        "author": null,
+        "secondary_type": null
+    },
+    "16_4": {
+        "animated_object": "16",
+        "animation_type": "4",
+        "author": null,
+        "secondary_type": null
+    },
+    "16_5": {
+        "animated_object": "16",
+        "animation_type": "5",
+        "author": null,
+        "secondary_type": null
+    },
+    "16_7x0": {
+        "animated_object": "16",
+        "animation_type": "0",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "16_7x1": {
+        "animated_object": "16",
+        "animation_type": "1",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "16_7x2": {
+        "animated_object": "16",
+        "animation_type": "2",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "16_7x3": {
+        "animated_object": "16",
+        "animation_type": "3",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "16_7x4": {
+        "animated_object": "16",
+        "animation_type": "4",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "17_0": {
+        "animated_object": "17",
+        "animation_type": "0",
+        "author": null,
+        "secondary_type": null
+    },
+    "17_1": {
+        "animated_object": "17",
+        "animation_type": "1",
+        "author": null,
+        "secondary_type": null
+    },
+    "17_2": {
+        "animated_object": "17",
+        "animation_type": "2",
+        "author": null,
+        "secondary_type": null
+    },
+    "17_4": {
+        "animated_object": "17",
+        "animation_type": "4",
+        "author": null,
+        "secondary_type": null
+    },
+    "17_5": {
+        "animated_object": "17",
+        "animation_type": "5",
+        "author": null,
+        "secondary_type": null
+    },
+    "17_7x0": {
+        "animated_object": "17",
+        "animation_type": "0",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "17_7x1": {
+        "animated_object": "17",
+        "animation_type": "1",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "17_7x2": {
+        "animated_object": "17",
+        "animation_type": "2",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "17_7x3": {
+        "animated_object": "17",
+        "animation_type": "3",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "17_7x4": {
+        "animated_object": "17",
+        "animation_type": "4",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "18_0": {
+        "animated_object": "18",
+        "animation_type": "0",
+        "author": null,
+        "secondary_type": null
+    },
+    "18_1": {
+        "animated_object": "18",
+        "animation_type": "1",
+        "author": null,
+        "secondary_type": null
+    },
+    "18_2": {
+        "animated_object": "18",
+        "animation_type": "2",
+        "author": null,
+        "secondary_type": null
+    },
+    "18_4": {
+        "animated_object": "18",
+        "animation_type": "4",
+        "author": null,
+        "secondary_type": null
+    },
+    "18_5": {
+        "animated_object": "18",
+        "animation_type": "5",
+        "author": null,
+        "secondary_type": null
+    },
+    "18_7x0": {
+        "animated_object": "18",
+        "animation_type": "0",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "18_7x1": {
+        "animated_object": "18",
+        "animation_type": "1",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "18_7x2": {
+        "animated_object": "18",
+        "animation_type": "2",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "18_7x3": {
+        "animated_object": "18",
+        "animation_type": "3",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "18_7x4": {
+        "animated_object": "18",
+        "animation_type": "4",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "193_0": {
+        "animated_object": "193",
+        "animation_type": "0",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "193_1": {
+        "animated_object": "193",
+        "animation_type": "1",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "193_2": {
+        "animated_object": "193",
+        "animation_type": "2",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "193_4": {
+        "animated_object": "193",
+        "animation_type": "4",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "193_5": {
+        "animated_object": "193",
+        "animation_type": "5",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "194_0": {
+        "animated_object": "194",
+        "animation_type": "0",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "194_1": {
+        "animated_object": "194",
+        "animation_type": "1",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "194_2": {
+        "animated_object": "194",
+        "animation_type": "2",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "194_4": {
+        "animated_object": "194",
+        "animation_type": "4",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "194_5": {
+        "animated_object": "194",
+        "animation_type": "5",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "195_0": {
+        "animated_object": "195",
+        "animation_type": "0",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "195_1": {
+        "animated_object": "195",
+        "animation_type": "1",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "195_2": {
+        "animated_object": "195",
+        "animation_type": "2",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "195_4": {
+        "animated_object": "195",
+        "animation_type": "4",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "195_5": {
+        "animated_object": "195",
+        "animation_type": "5",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "196_0": {
+        "animated_object": "196",
+        "animation_type": "0",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "196_1": {
+        "animated_object": "196",
+        "animation_type": "1",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "196_2": {
+        "animated_object": "196",
+        "animation_type": "2",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "196_4": {
+        "animated_object": "196",
+        "animation_type": "4",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "196_5": {
+        "animated_object": "196",
+        "animation_type": "5",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "197_0": {
+        "animated_object": "197",
+        "animation_type": "0",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "197_1": {
+        "animated_object": "197",
+        "animation_type": "1",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "197_2": {
+        "animated_object": "197",
+        "animation_type": "2",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "197_4": {
+        "animated_object": "197",
+        "animation_type": "4",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "197_5": {
+        "animated_object": "197",
+        "animation_type": "5",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "198_0": {
+        "animated_object": "198",
+        "animation_type": "0",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "198_1": {
+        "animated_object": "198",
+        "animation_type": "1",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "198_2": {
+        "animated_object": "198",
+        "animation_type": "2",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "198_4": {
+        "animated_object": "198",
+        "animation_type": "4",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "198_5": {
+        "animated_object": "198",
+        "animation_type": "5",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "199_0": {
+        "animated_object": "199",
+        "animation_type": "0",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "199_1": {
+        "animated_object": "199",
+        "animation_type": "1",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "199_2": {
+        "animated_object": "199",
+        "animation_type": "2",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "199_4": {
+        "animated_object": "199",
+        "animation_type": "4",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "199_5": {
+        "animated_object": "199",
+        "animation_type": "5",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "19_0": {
+        "animated_object": "19",
+        "animation_type": "0",
+        "author": null,
+        "secondary_type": null
+    },
+    "19_1": {
+        "animated_object": "19",
+        "animation_type": "1",
+        "author": null,
+        "secondary_type": null
+    },
+    "19_2": {
+        "animated_object": "19",
+        "animation_type": "2",
+        "author": null,
+        "secondary_type": null
+    },
+    "19_4": {
+        "animated_object": "19",
+        "animation_type": "4",
+        "author": null,
+        "secondary_type": null
+    },
+    "19_5": {
+        "animated_object": "19",
+        "animation_type": "5",
+        "author": null,
+        "secondary_type": null
+    },
+    "19_7x0": {
+        "animated_object": "19",
+        "animation_type": "0",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "19_7x1": {
+        "animated_object": "19",
+        "animation_type": "1",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "19_7x2": {
+        "animated_object": "19",
+        "animation_type": "2",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "19_7x3": {
+        "animated_object": "19",
+        "animation_type": "3",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "19_7x4": {
+        "animated_object": "19",
+        "animation_type": "4",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "1_0": {
+        "animated_object": "1",
+        "animation_type": "0",
+        "author": "5ED1F9012B",
+        "secondary_type": null
+    },
+    "1_1": {
+        "animated_object": "1",
+        "animation_type": "1",
+        "author": "5ED1F9012B",
+        "secondary_type": null
+    },
+    "1_2": {
+        "animated_object": "1",
+        "animation_type": "2",
+        "author": "5ED1F9012B",
+        "secondary_type": null
+    },
+    "1_4": {
+        "animated_object": "1",
+        "animation_type": "4",
+        "author": "5ED1F9012B",
+        "secondary_type": null
+    },
+    "1_5": {
+        "animated_object": "1",
+        "animation_type": "5",
+        "author": "5ED1F9012B",
+        "secondary_type": null
+    },
+    "1_7x0": {
+        "animated_object": "1",
+        "animation_type": "0",
+        "author": "5ED1F9012B",
+        "secondary_type": "7"
+    },
+    "1_7x1": {
+        "animated_object": "1",
+        "animation_type": "1",
+        "author": "5ED1F9012B",
+        "secondary_type": "7"
+    },
+    "1_7x2": {
+        "animated_object": "1",
+        "animation_type": "2",
+        "author": "5ED1F9012B",
+        "secondary_type": "7"
+    },
+    "1_7x3": {
+        "animated_object": "1",
+        "animation_type": "3",
+        "author": "5ED1F9012B",
+        "secondary_type": "7"
+    },
+    "1_7x4": {
+        "animated_object": "1",
+        "animation_type": "4",
+        "author": "5ED1F9012B",
+        "secondary_type": "7"
+    },
+    "200_0": {
+        "animated_object": "200",
+        "animation_type": "0",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "200_1": {
+        "animated_object": "200",
+        "animation_type": "1",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "200_2": {
+        "animated_object": "200",
+        "animation_type": "2",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "200_4": {
+        "animated_object": "200",
+        "animation_type": "4",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "200_5": {
+        "animated_object": "200",
+        "animation_type": "5",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "201_0": {
+        "animated_object": "201",
+        "animation_type": "0",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "201_1": {
+        "animated_object": "201",
+        "animation_type": "1",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "201_2": {
+        "animated_object": "201",
+        "animation_type": "2",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "201_4": {
+        "animated_object": "201",
+        "animation_type": "4",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "201_5": {
+        "animated_object": "201",
+        "animation_type": "5",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "202_0": {
+        "animated_object": "202",
+        "animation_type": "0",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "202_1": {
+        "animated_object": "202",
+        "animation_type": "1",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "202_2": {
+        "animated_object": "202",
+        "animation_type": "2",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "202_4": {
+        "animated_object": "202",
+        "animation_type": "4",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "202_5": {
+        "animated_object": "202",
+        "animation_type": "5",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "207_7x0": {
+        "animated_object": "207",
+        "animation_type": "0",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "207_7x1": {
+        "animated_object": "207",
+        "animation_type": "1",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "207_7x2": {
+        "animated_object": "207",
+        "animation_type": "2",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "207_7x3": {
+        "animated_object": "207",
+        "animation_type": "3",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "207_7x4": {
+        "animated_object": "207",
+        "animation_type": "4",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "208_0": {
+        "animated_object": "208",
+        "animation_type": "0",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "208_1": {
+        "animated_object": "208",
+        "animation_type": "1",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "208_2": {
+        "animated_object": "208",
+        "animation_type": "2",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "208_4": {
+        "animated_object": "208",
+        "animation_type": "4",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "208_5": {
+        "animated_object": "208",
+        "animation_type": "5",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "208_7x0": {
+        "animated_object": "208",
+        "animation_type": "0",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "208_7x1": {
+        "animated_object": "208",
+        "animation_type": "1",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "208_7x2": {
+        "animated_object": "208",
+        "animation_type": "2",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "208_7x3": {
+        "animated_object": "208",
+        "animation_type": "3",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "208_7x4": {
+        "animated_object": "208",
+        "animation_type": "4",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "209_0": {
+        "animated_object": "209",
+        "animation_type": "0",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "209_1": {
+        "animated_object": "209",
+        "animation_type": "1",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "209_2": {
+        "animated_object": "209",
+        "animation_type": "2",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "209_4": {
+        "animated_object": "209",
+        "animation_type": "4",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "209_5": {
+        "animated_object": "209",
+        "animation_type": "5",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "209_7x0": {
+        "animated_object": "209",
+        "animation_type": "0",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "209_7x1": {
+        "animated_object": "209",
+        "animation_type": "1",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "209_7x2": {
+        "animated_object": "209",
+        "animation_type": "2",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "209_7x3": {
+        "animated_object": "209",
+        "animation_type": "3",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "209_7x4": {
+        "animated_object": "209",
+        "animation_type": "4",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "20_0": {
+        "animated_object": "20",
+        "animation_type": "0",
+        "author": null,
+        "secondary_type": null
+    },
+    "20_1": {
+        "animated_object": "20",
+        "animation_type": "1",
+        "author": null,
+        "secondary_type": null
+    },
+    "20_2": {
+        "animated_object": "20",
+        "animation_type": "2",
+        "author": null,
+        "secondary_type": null
+    },
+    "20_4": {
+        "animated_object": "20",
+        "animation_type": "4",
+        "author": null,
+        "secondary_type": null
+    },
+    "20_5": {
+        "animated_object": "20",
+        "animation_type": "5",
+        "author": null,
+        "secondary_type": null
+    },
+    "20_7x0": {
+        "animated_object": "20",
+        "animation_type": "0",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "20_7x1": {
+        "animated_object": "20",
+        "animation_type": "1",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "20_7x2": {
+        "animated_object": "20",
+        "animation_type": "2",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "20_7x3": {
+        "animated_object": "20",
+        "animation_type": "3",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "20_7x4": {
+        "animated_object": "20",
+        "animation_type": "4",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "210_0": {
+        "animated_object": "210",
+        "animation_type": "0",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "210_1": {
+        "animated_object": "210",
+        "animation_type": "1",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "210_2": {
+        "animated_object": "210",
+        "animation_type": "2",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "210_4": {
+        "animated_object": "210",
+        "animation_type": "4",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "210_5": {
+        "animated_object": "210",
+        "animation_type": "5",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "210_7x0": {
+        "animated_object": "210",
+        "animation_type": "0",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "210_7x1": {
+        "animated_object": "210",
+        "animation_type": "1",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "210_7x2": {
+        "animated_object": "210",
+        "animation_type": "2",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "210_7x3": {
+        "animated_object": "210",
+        "animation_type": "3",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "210_7x4": {
+        "animated_object": "210",
+        "animation_type": "4",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "211_0": {
+        "animated_object": "211",
+        "animation_type": "0",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "211_1": {
+        "animated_object": "211",
+        "animation_type": "1",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "211_2": {
+        "animated_object": "211",
+        "animation_type": "2",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "211_4": {
+        "animated_object": "211",
+        "animation_type": "4",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "211_5": {
+        "animated_object": "211",
+        "animation_type": "5",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "211_7x0": {
+        "animated_object": "211",
+        "animation_type": "0",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "211_7x1": {
+        "animated_object": "211",
+        "animation_type": "1",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "211_7x2": {
+        "animated_object": "211",
+        "animation_type": "2",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "211_7x3": {
+        "animated_object": "211",
+        "animation_type": "3",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "211_7x4": {
+        "animated_object": "211",
+        "animation_type": "4",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "212_7x0": {
+        "animated_object": "212",
+        "animation_type": "0",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "212_7x1": {
+        "animated_object": "212",
+        "animation_type": "1",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "212_7x2": {
+        "animated_object": "212",
+        "animation_type": "2",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "212_7x3": {
+        "animated_object": "212",
+        "animation_type": "3",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "212_7x4": {
+        "animated_object": "212",
+        "animation_type": "4",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "213_0": {
+        "animated_object": "213",
+        "animation_type": "0",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "213_1": {
+        "animated_object": "213",
+        "animation_type": "1",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "213_2": {
+        "animated_object": "213",
+        "animation_type": "2",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "213_4": {
+        "animated_object": "213",
+        "animation_type": "4",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "213_5": {
+        "animated_object": "213",
+        "animation_type": "5",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "213_7x0": {
+        "animated_object": "213",
+        "animation_type": "0",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "213_7x1": {
+        "animated_object": "213",
+        "animation_type": "1",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "213_7x2": {
+        "animated_object": "213",
+        "animation_type": "2",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "213_7x3": {
+        "animated_object": "213",
+        "animation_type": "3",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "213_7x4": {
+        "animated_object": "213",
+        "animation_type": "4",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "214_0": {
+        "animated_object": "214",
+        "animation_type": "0",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "214_1": {
+        "animated_object": "214",
+        "animation_type": "1",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "214_2": {
+        "animated_object": "214",
+        "animation_type": "2",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "214_4": {
+        "animated_object": "214",
+        "animation_type": "4",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "214_5": {
+        "animated_object": "214",
+        "animation_type": "5",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "214_7x0": {
+        "animated_object": "214",
+        "animation_type": "0",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "214_7x1": {
+        "animated_object": "214",
+        "animation_type": "1",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "214_7x2": {
+        "animated_object": "214",
+        "animation_type": "2",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "214_7x3": {
+        "animated_object": "214",
+        "animation_type": "3",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "214_7x4": {
+        "animated_object": "214",
+        "animation_type": "4",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "215_7x0": {
+        "animated_object": "215",
+        "animation_type": "0",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "215_7x1": {
+        "animated_object": "215",
+        "animation_type": "1",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "215_7x2": {
+        "animated_object": "215",
+        "animation_type": "2",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "215_7x3": {
+        "animated_object": "215",
+        "animation_type": "3",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "215_7x4": {
+        "animated_object": "215",
+        "animation_type": "4",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "216_0": {
+        "animated_object": "216",
+        "animation_type": "0",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "216_1": {
+        "animated_object": "216",
+        "animation_type": "1",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "216_2": {
+        "animated_object": "216",
+        "animation_type": "2",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "216_4": {
+        "animated_object": "216",
+        "animation_type": "4",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "216_5": {
+        "animated_object": "216",
+        "animation_type": "5",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "216_7x0": {
+        "animated_object": "216",
+        "animation_type": "0",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "216_7x1": {
+        "animated_object": "216",
+        "animation_type": "1",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "216_7x2": {
+        "animated_object": "216",
+        "animation_type": "2",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "216_7x3": {
+        "animated_object": "216",
+        "animation_type": "3",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "216_7x4": {
+        "animated_object": "216",
+        "animation_type": "4",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "217_0": {
+        "animated_object": "217",
+        "animation_type": "0",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "217_1": {
+        "animated_object": "217",
+        "animation_type": "1",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "217_2": {
+        "animated_object": "217",
+        "animation_type": "2",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "217_4": {
+        "animated_object": "217",
+        "animation_type": "4",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "217_5": {
+        "animated_object": "217",
+        "animation_type": "5",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "217_7x0": {
+        "animated_object": "217",
+        "animation_type": "0",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "217_7x1": {
+        "animated_object": "217",
+        "animation_type": "1",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "217_7x2": {
+        "animated_object": "217",
+        "animation_type": "2",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "217_7x3": {
+        "animated_object": "217",
+        "animation_type": "3",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "217_7x4": {
+        "animated_object": "217",
+        "animation_type": "4",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "218_0": {
+        "animated_object": "218",
+        "animation_type": "0",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "218_1": {
+        "animated_object": "218",
+        "animation_type": "1",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "218_2": {
+        "animated_object": "218",
+        "animation_type": "2",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "218_4": {
+        "animated_object": "218",
+        "animation_type": "4",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "218_5": {
+        "animated_object": "218",
+        "animation_type": "5",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "218_7x0": {
+        "animated_object": "218",
+        "animation_type": "0",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "218_7x1": {
+        "animated_object": "218",
+        "animation_type": "1",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "218_7x2": {
+        "animated_object": "218",
+        "animation_type": "2",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "218_7x3": {
+        "animated_object": "218",
+        "animation_type": "3",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "218_7x4": {
+        "animated_object": "218",
+        "animation_type": "4",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "219_0": {
+        "animated_object": "219",
+        "animation_type": "0",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "219_1": {
+        "animated_object": "219",
+        "animation_type": "1",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "219_2": {
+        "animated_object": "219",
+        "animation_type": "2",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "219_4": {
+        "animated_object": "219",
+        "animation_type": "4",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "219_5": {
+        "animated_object": "219",
+        "animation_type": "5",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "219_7x0": {
+        "animated_object": "219",
+        "animation_type": "0",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "219_7x1": {
+        "animated_object": "219",
+        "animation_type": "1",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "219_7x2": {
+        "animated_object": "219",
+        "animation_type": "2",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "219_7x3": {
+        "animated_object": "219",
+        "animation_type": "3",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "219_7x4": {
+        "animated_object": "219",
+        "animation_type": "4",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "21_0": {
+        "animated_object": "21",
+        "animation_type": "0",
+        "author": null,
+        "secondary_type": null
+    },
+    "21_1": {
+        "animated_object": "21",
+        "animation_type": "1",
+        "author": null,
+        "secondary_type": null
+    },
+    "21_2": {
+        "animated_object": "21",
+        "animation_type": "2",
+        "author": null,
+        "secondary_type": null
+    },
+    "21_4": {
+        "animated_object": "21",
+        "animation_type": "4",
+        "author": null,
+        "secondary_type": null
+    },
+    "21_5": {
+        "animated_object": "21",
+        "animation_type": "5",
+        "author": null,
+        "secondary_type": null
+    },
+    "21_7x0": {
+        "animated_object": "21",
+        "animation_type": "0",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "21_7x1": {
+        "animated_object": "21",
+        "animation_type": "1",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "21_7x2": {
+        "animated_object": "21",
+        "animation_type": "2",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "21_7x3": {
+        "animated_object": "21",
+        "animation_type": "3",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "21_7x4": {
+        "animated_object": "21",
+        "animation_type": "4",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "220_0": {
+        "animated_object": "220",
+        "animation_type": "0",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "220_1": {
+        "animated_object": "220",
+        "animation_type": "1",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "220_2": {
+        "animated_object": "220",
+        "animation_type": "2",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "220_4": {
+        "animated_object": "220",
+        "animation_type": "4",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "220_5": {
+        "animated_object": "220",
+        "animation_type": "5",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "220_7x0": {
+        "animated_object": "220",
+        "animation_type": "0",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "220_7x1": {
+        "animated_object": "220",
+        "animation_type": "1",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "220_7x2": {
+        "animated_object": "220",
+        "animation_type": "2",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "220_7x3": {
+        "animated_object": "220",
+        "animation_type": "3",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "220_7x4": {
+        "animated_object": "220",
+        "animation_type": "4",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "221_0": {
+        "animated_object": "221",
+        "animation_type": "0",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "221_1": {
+        "animated_object": "221",
+        "animation_type": "1",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "221_2": {
+        "animated_object": "221",
+        "animation_type": "2",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "221_4": {
+        "animated_object": "221",
+        "animation_type": "4",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "221_5": {
+        "animated_object": "221",
+        "animation_type": "5",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "221_7x0": {
+        "animated_object": "221",
+        "animation_type": "0",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "221_7x1": {
+        "animated_object": "221",
+        "animation_type": "1",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "221_7x2": {
+        "animated_object": "221",
+        "animation_type": "2",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "221_7x3": {
+        "animated_object": "221",
+        "animation_type": "3",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "221_7x4": {
+        "animated_object": "221",
+        "animation_type": "4",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "222_0": {
+        "animated_object": "222",
+        "animation_type": "0",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "222_1": {
+        "animated_object": "222",
+        "animation_type": "1",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "222_2": {
+        "animated_object": "222",
+        "animation_type": "2",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "222_4": {
+        "animated_object": "222",
+        "animation_type": "4",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "222_5": {
+        "animated_object": "222",
+        "animation_type": "5",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "222_7x0": {
+        "animated_object": "222",
+        "animation_type": "0",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "222_7x1": {
+        "animated_object": "222",
+        "animation_type": "1",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "222_7x2": {
+        "animated_object": "222",
+        "animation_type": "2",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "222_7x3": {
+        "animated_object": "222",
+        "animation_type": "3",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "222_7x4": {
+        "animated_object": "222",
+        "animation_type": "4",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "223_0": {
+        "animated_object": "223",
+        "animation_type": "0",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "223_1": {
+        "animated_object": "223",
+        "animation_type": "1",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "223_2": {
+        "animated_object": "223",
+        "animation_type": "2",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "223_4": {
+        "animated_object": "223",
+        "animation_type": "4",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "223_5": {
+        "animated_object": "223",
+        "animation_type": "5",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "223_7x0": {
+        "animated_object": "223",
+        "animation_type": "0",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "223_7x1": {
+        "animated_object": "223",
+        "animation_type": "1",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "223_7x2": {
+        "animated_object": "223",
+        "animation_type": "2",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "223_7x3": {
+        "animated_object": "223",
+        "animation_type": "3",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "223_7x4": {
+        "animated_object": "223",
+        "animation_type": "4",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "224_0": {
+        "animated_object": "224",
+        "animation_type": "0",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "224_1": {
+        "animated_object": "224",
+        "animation_type": "1",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "224_2": {
+        "animated_object": "224",
+        "animation_type": "2",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "224_4": {
+        "animated_object": "224",
+        "animation_type": "4",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "224_5": {
+        "animated_object": "224",
+        "animation_type": "5",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "224_7x0": {
+        "animated_object": "224",
+        "animation_type": "0",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "224_7x1": {
+        "animated_object": "224",
+        "animation_type": "1",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "224_7x2": {
+        "animated_object": "224",
+        "animation_type": "2",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "224_7x3": {
+        "animated_object": "224",
+        "animation_type": "3",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "224_7x4": {
+        "animated_object": "224",
+        "animation_type": "4",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "225_0": {
+        "animated_object": "225",
+        "animation_type": "0",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "225_1": {
+        "animated_object": "225",
+        "animation_type": "1",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "225_2": {
+        "animated_object": "225",
+        "animation_type": "2",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "225_4": {
+        "animated_object": "225",
+        "animation_type": "4",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "225_5": {
+        "animated_object": "225",
+        "animation_type": "5",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "225_7x0": {
+        "animated_object": "225",
+        "animation_type": "0",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "225_7x1": {
+        "animated_object": "225",
+        "animation_type": "1",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "225_7x2": {
+        "animated_object": "225",
+        "animation_type": "2",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "225_7x3": {
+        "animated_object": "225",
+        "animation_type": "3",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "225_7x4": {
+        "animated_object": "225",
+        "animation_type": "4",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "226_0": {
+        "animated_object": "226",
+        "animation_type": "0",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "226_1": {
+        "animated_object": "226",
+        "animation_type": "1",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "226_2": {
+        "animated_object": "226",
+        "animation_type": "2",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "226_4": {
+        "animated_object": "226",
+        "animation_type": "4",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "226_5": {
+        "animated_object": "226",
+        "animation_type": "5",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "226_7x0": {
+        "animated_object": "226",
+        "animation_type": "0",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "226_7x1": {
+        "animated_object": "226",
+        "animation_type": "1",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "226_7x2": {
+        "animated_object": "226",
+        "animation_type": "2",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "226_7x3": {
+        "animated_object": "226",
+        "animation_type": "3",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "226_7x4": {
+        "animated_object": "226",
+        "animation_type": "4",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "227_0": {
+        "animated_object": "227",
+        "animation_type": "0",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "227_1": {
+        "animated_object": "227",
+        "animation_type": "1",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "227_2": {
+        "animated_object": "227",
+        "animation_type": "2",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "227_4": {
+        "animated_object": "227",
+        "animation_type": "4",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "227_5": {
+        "animated_object": "227",
+        "animation_type": "5",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "227_7x0": {
+        "animated_object": "227",
+        "animation_type": "0",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "227_7x1": {
+        "animated_object": "227",
+        "animation_type": "1",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "227_7x2": {
+        "animated_object": "227",
+        "animation_type": "2",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "227_7x3": {
+        "animated_object": "227",
+        "animation_type": "3",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "227_7x4": {
+        "animated_object": "227",
+        "animation_type": "4",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "228_0": {
+        "animated_object": "228",
+        "animation_type": "0",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "228_1": {
+        "animated_object": "228",
+        "animation_type": "1",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "228_2": {
+        "animated_object": "228",
+        "animation_type": "2",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "228_4": {
+        "animated_object": "228",
+        "animation_type": "4",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "228_5": {
+        "animated_object": "228",
+        "animation_type": "5",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "228_7x0": {
+        "animated_object": "228",
+        "animation_type": "0",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "228_7x1": {
+        "animated_object": "228",
+        "animation_type": "1",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "228_7x2": {
+        "animated_object": "228",
+        "animation_type": "2",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "228_7x3": {
+        "animated_object": "228",
+        "animation_type": "3",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "228_7x4": {
+        "animated_object": "228",
+        "animation_type": "4",
+        "author": "571565B43B",
+        "secondary_type": "7"
+    },
+    "229_0": {
+        "animated_object": "229",
+        "animation_type": "0",
+        "author": "818439E626",
+        "secondary_type": null
+    },
+    "229_1": {
+        "animated_object": "229",
+        "animation_type": "1",
+        "author": "818439E626",
+        "secondary_type": null
+    },
+    "229_2": {
+        "animated_object": "229",
+        "animation_type": "2",
+        "author": "818439E626",
+        "secondary_type": null
+    },
+    "229_4": {
+        "animated_object": "229",
+        "animation_type": "4",
+        "author": "818439E626",
+        "secondary_type": null
+    },
+    "229_5": {
+        "animated_object": "229",
+        "animation_type": "5",
+        "author": "818439E626",
+        "secondary_type": null
+    },
+    "229_7x0": {
+        "animated_object": "229",
+        "animation_type": "0",
+        "author": "818439E626",
+        "secondary_type": "7"
+    },
+    "229_7x1": {
+        "animated_object": "229",
+        "animation_type": "1",
+        "author": "818439E626",
+        "secondary_type": "7"
+    },
+    "229_7x2": {
+        "animated_object": "229",
+        "animation_type": "2",
+        "author": "818439E626",
+        "secondary_type": "7"
+    },
+    "229_7x3": {
+        "animated_object": "229",
+        "animation_type": "3",
+        "author": "818439E626",
+        "secondary_type": "7"
+    },
+    "229_7x4": {
+        "animated_object": "229",
+        "animation_type": "4",
+        "author": "818439E626",
+        "secondary_type": "7"
+    },
+    "22_0": {
+        "animated_object": "22",
+        "animation_type": "0",
+        "author": null,
+        "secondary_type": null
+    },
+    "22_1": {
+        "animated_object": "22",
+        "animation_type": "1",
+        "author": null,
+        "secondary_type": null
+    },
+    "22_2": {
+        "animated_object": "22",
+        "animation_type": "2",
+        "author": null,
+        "secondary_type": null
+    },
+    "22_4": {
+        "animated_object": "22",
+        "animation_type": "4",
+        "author": null,
+        "secondary_type": null
+    },
+    "22_5": {
+        "animated_object": "22",
+        "animation_type": "5",
+        "author": null,
+        "secondary_type": null
+    },
+    "22_7x0": {
+        "animated_object": "22",
+        "animation_type": "0",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "22_7x1": {
+        "animated_object": "22",
+        "animation_type": "1",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "22_7x2": {
+        "animated_object": "22",
+        "animation_type": "2",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "22_7x3": {
+        "animated_object": "22",
+        "animation_type": "3",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "22_7x4": {
+        "animated_object": "22",
+        "animation_type": "4",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "230_7x0": {
+        "animated_object": "230",
+        "animation_type": "0",
+        "author": "818439E626",
+        "secondary_type": "7"
+    },
+    "230_7x1": {
+        "animated_object": "230",
+        "animation_type": "1",
+        "author": "818439E626",
+        "secondary_type": "7"
+    },
+    "230_7x2": {
+        "animated_object": "230",
+        "animation_type": "2",
+        "author": "818439E626",
+        "secondary_type": "7"
+    },
+    "230_7x3": {
+        "animated_object": "230",
+        "animation_type": "3",
+        "author": "818439E626",
+        "secondary_type": "7"
+    },
+    "230_7x4": {
+        "animated_object": "230",
+        "animation_type": "4",
+        "author": "818439E626",
+        "secondary_type": "7"
+    },
+    "231_0": {
+        "animated_object": "231",
+        "animation_type": "0",
+        "author": "571565B43B",
+        "secondary_type": null
+    },
+    "231_1": {
+        "animated_object": "231",
+        "animation_type": "1",
+        "author": "A3768E20D8",
+        "secondary_type": null
+    },
+    "231_2": {
+        "animated_object": "231",
+        "animation_type": "2",
+        "author": "A3768E20D8",
+        "secondary_type": null
+    },
+    "231_4": {
+        "animated_object": "231",
+        "animation_type": "4",
+        "author": "A3768E20D8",
+        "secondary_type": null
+    },
+    "231_5": {
+        "animated_object": "231",
+        "animation_type": "5",
+        "author": "A3768E20D8",
+        "secondary_type": null
+    },
+    "231_7x0": {
+        "animated_object": "231",
+        "animation_type": "0",
+        "author": "A3768E20D8",
+        "secondary_type": "7"
+    },
+    "231_7x1": {
+        "animated_object": "231",
+        "animation_type": "1",
+        "author": "A3768E20D8",
+        "secondary_type": "7"
+    },
+    "231_7x2": {
+        "animated_object": "231",
+        "animation_type": "2",
+        "author": "A3768E20D8",
+        "secondary_type": "7"
+    },
+    "231_7x3": {
+        "animated_object": "231",
+        "animation_type": "3",
+        "author": "A3768E20D8",
+        "secondary_type": "7"
+    },
+    "231_7x4": {
+        "animated_object": "231",
+        "animation_type": "4",
+        "author": "A3768E20D8",
+        "secondary_type": "7"
+    },
+    "243_0": {
+        "animated_object": "243",
+        "animation_type": "0",
+        "author": "818439E626",
+        "secondary_type": null
+    },
+    "243_1": {
+        "animated_object": "243",
+        "animation_type": "1",
+        "author": "818439E626",
+        "secondary_type": null
+    },
+    "243_2": {
+        "animated_object": "243",
+        "animation_type": "2",
+        "author": "818439E626",
+        "secondary_type": null
+    },
+    "243_4": {
+        "animated_object": "243",
+        "animation_type": "4",
+        "author": "818439E626",
+        "secondary_type": null
+    },
+    "243_5": {
+        "animated_object": "243",
+        "animation_type": "5",
+        "author": "818439E626",
+        "secondary_type": null
+    },
+    "266_0": {
+        "animated_object": "266",
+        "animation_type": "0",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "266_1": {
+        "animated_object": "266",
+        "animation_type": "1",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "266_2": {
+        "animated_object": "266",
+        "animation_type": "2",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "266_4": {
+        "animated_object": "266",
+        "animation_type": "4",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "266_5": {
+        "animated_object": "266",
+        "animation_type": "5",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "267_0": {
+        "animated_object": "267",
+        "animation_type": "0",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "267_1": {
+        "animated_object": "267",
+        "animation_type": "1",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "267_2": {
+        "animated_object": "267",
+        "animation_type": "2",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "267_4": {
+        "animated_object": "267",
+        "animation_type": "4",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "267_5": {
+        "animated_object": "267",
+        "animation_type": "5",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "268_0": {
+        "animated_object": "268",
+        "animation_type": "0",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "268_1": {
+        "animated_object": "268",
+        "animation_type": "1",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "268_2": {
+        "animated_object": "268",
+        "animation_type": "2",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "268_4": {
+        "animated_object": "268",
+        "animation_type": "4",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "268_5": {
+        "animated_object": "268",
+        "animation_type": "5",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "269_0": {
+        "animated_object": "269",
+        "animation_type": "0",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "269_1": {
+        "animated_object": "269",
+        "animation_type": "1",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "269_2": {
+        "animated_object": "269",
+        "animation_type": "2",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "269_4": {
+        "animated_object": "269",
+        "animation_type": "4",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "269_5": {
+        "animated_object": "269",
+        "animation_type": "5",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "29_0": {
+        "animated_object": "29",
+        "animation_type": "0",
+        "author": null,
+        "secondary_type": null
+    },
+    "29_1": {
+        "animated_object": "29",
+        "animation_type": "1",
+        "author": null,
+        "secondary_type": null
+    },
+    "29_2": {
+        "animated_object": "29",
+        "animation_type": "2",
+        "author": null,
+        "secondary_type": null
+    },
+    "29_4": {
+        "animated_object": "29",
+        "animation_type": "4",
+        "author": null,
+        "secondary_type": null
+    },
+    "29_5": {
+        "animated_object": "29",
+        "animation_type": "5",
+        "author": null,
+        "secondary_type": null
+    },
+    "2_0": {
+        "animated_object": "2",
+        "animation_type": "0",
+        "author": null,
+        "secondary_type": null
+    },
+    "2_1": {
+        "animated_object": "2",
+        "animation_type": "1",
+        "author": null,
+        "secondary_type": null
+    },
+    "2_2": {
+        "animated_object": "2",
+        "animation_type": "2",
+        "author": null,
+        "secondary_type": null
+    },
+    "2_4": {
+        "animated_object": "2",
+        "animation_type": "4",
+        "author": null,
+        "secondary_type": null
+    },
+    "2_5": {
+        "animated_object": "2",
+        "animation_type": "5",
+        "author": null,
+        "secondary_type": null
+    },
+    "2_7x0": {
+        "animated_object": "2",
+        "animation_type": "0",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "2_7x1": {
+        "animated_object": "2",
+        "animation_type": "1",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "2_7x2": {
+        "animated_object": "2",
+        "animation_type": "2",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "2_7x3": {
+        "animated_object": "2",
+        "animation_type": "3",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "2_7x4": {
+        "animated_object": "2",
+        "animation_type": "4",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "339_0": {
+        "animated_object": "339",
+        "animation_type": "0",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "339_1": {
+        "animated_object": "339",
+        "animation_type": "1",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "339_2": {
+        "animated_object": "339",
+        "animation_type": "2",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "339_4": {
+        "animated_object": "339",
+        "animation_type": "4",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "339_5": {
+        "animated_object": "339",
+        "animation_type": "5",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "340_0": {
+        "animated_object": "340",
+        "animation_type": "0",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "340_1": {
+        "animated_object": "340",
+        "animation_type": "1",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "340_2": {
+        "animated_object": "340",
+        "animation_type": "2",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "340_4": {
+        "animated_object": "340",
+        "animation_type": "4",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "340_5": {
+        "animated_object": "340",
+        "animation_type": "5",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "340_7x0": {
+        "animated_object": "340",
+        "animation_type": "0",
+        "author": "9EAB7F458D",
+        "secondary_type": "7"
+    },
+    "345_0": {
+        "animated_object": "345",
+        "animation_type": "0",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "345_1": {
+        "animated_object": "345",
+        "animation_type": "1",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "345_2": {
+        "animated_object": "345",
+        "animation_type": "2",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "345_4": {
+        "animated_object": "345",
+        "animation_type": "4",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "345_5": {
+        "animated_object": "345",
+        "animation_type": "5",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "350_0": {
+        "animated_object": "350",
+        "animation_type": "0",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "350_1": {
+        "animated_object": "350",
+        "animation_type": "1",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "350_2": {
+        "animated_object": "350",
+        "animation_type": "2",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "350_4": {
+        "animated_object": "350",
+        "animation_type": "4",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "350_5": {
+        "animated_object": "350",
+        "animation_type": "5",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "355_0": {
+        "animated_object": "355",
+        "animation_type": "0",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "355_1": {
+        "animated_object": "355",
+        "animation_type": "1",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "355_2": {
+        "animated_object": "355",
+        "animation_type": "2",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "355_4": {
+        "animated_object": "355",
+        "animation_type": "4",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "355_5": {
+        "animated_object": "355",
+        "animation_type": "5",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "360_0": {
+        "animated_object": "360",
+        "animation_type": "0",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "360_1": {
+        "animated_object": "360",
+        "animation_type": "1",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "360_2": {
+        "animated_object": "360",
+        "animation_type": "2",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "360_4": {
+        "animated_object": "360",
+        "animation_type": "4",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "360_5": {
+        "animated_object": "360",
+        "animation_type": "5",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "365_0": {
+        "animated_object": "365",
+        "animation_type": "0",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "365_1": {
+        "animated_object": "365",
+        "animation_type": "1",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "365_2": {
+        "animated_object": "365",
+        "animation_type": "2",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "365_4": {
+        "animated_object": "365",
+        "animation_type": "4",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "365_5": {
+        "animated_object": "365",
+        "animation_type": "5",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "370_0": {
+        "animated_object": "370",
+        "animation_type": "0",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "370_1": {
+        "animated_object": "370",
+        "animation_type": "1",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "370_2": {
+        "animated_object": "370",
+        "animation_type": "2",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "370_4": {
+        "animated_object": "370",
+        "animation_type": "4",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "370_5": {
+        "animated_object": "370",
+        "animation_type": "5",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "375_0": {
+        "animated_object": "375",
+        "animation_type": "0",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "375_1": {
+        "animated_object": "375",
+        "animation_type": "1",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "375_2": {
+        "animated_object": "375",
+        "animation_type": "2",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "375_4": {
+        "animated_object": "375",
+        "animation_type": "4",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "375_5": {
+        "animated_object": "375",
+        "animation_type": "5",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "38_0": {
+        "animated_object": "38",
+        "animation_type": "0",
+        "author": null,
+        "secondary_type": null
+    },
+    "38_1": {
+        "animated_object": "38",
+        "animation_type": "1",
+        "author": null,
+        "secondary_type": null
+    },
+    "38_2": {
+        "animated_object": "38",
+        "animation_type": "2",
+        "author": null,
+        "secondary_type": null
+    },
+    "38_4": {
+        "animated_object": "38",
+        "animation_type": "4",
+        "author": null,
+        "secondary_type": null
+    },
+    "38_5": {
+        "animated_object": "38",
+        "animation_type": "5",
+        "author": null,
+        "secondary_type": null
+    },
+    "396_0": {
+        "animated_object": "396",
+        "animation_type": "0",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "396_1": {
+        "animated_object": "396",
+        "animation_type": "1",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "396_2": {
+        "animated_object": "396",
+        "animation_type": "2",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "396_4": {
+        "animated_object": "396",
+        "animation_type": "4",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "396_5": {
+        "animated_object": "396",
+        "animation_type": "5",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "397_0": {
+        "animated_object": "397",
+        "animation_type": "0",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "397_1": {
+        "animated_object": "397",
+        "animation_type": "1",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "397_2": {
+        "animated_object": "397",
+        "animation_type": "2",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "397_4": {
+        "animated_object": "397",
+        "animation_type": "4",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "397_5": {
+        "animated_object": "397",
+        "animation_type": "5",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "398_0": {
+        "animated_object": "398",
+        "animation_type": "0",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "398_1": {
+        "animated_object": "398",
+        "animation_type": "1",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "398_2": {
+        "animated_object": "398",
+        "animation_type": "2",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "398_4": {
+        "animated_object": "398",
+        "animation_type": "4",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "398_5": {
+        "animated_object": "398",
+        "animation_type": "5",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "399_0": {
+        "animated_object": "399",
+        "animation_type": "0",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "399_1": {
+        "animated_object": "399",
+        "animation_type": "1",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "399_2": {
+        "animated_object": "399",
+        "animation_type": "2",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "399_4": {
+        "animated_object": "399",
+        "animation_type": "4",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "399_5": {
+        "animated_object": "399",
+        "animation_type": "5",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "39_0": {
+        "animated_object": "39",
+        "animation_type": "0",
+        "author": null,
+        "secondary_type": null
+    },
+    "39_1": {
+        "animated_object": "39",
+        "animation_type": "1",
+        "author": null,
+        "secondary_type": null
+    },
+    "39_2": {
+        "animated_object": "39",
+        "animation_type": "2",
+        "author": null,
+        "secondary_type": null
+    },
+    "39_4": {
+        "animated_object": "39",
+        "animation_type": "4",
+        "author": null,
+        "secondary_type": null
+    },
+    "39_5": {
+        "animated_object": "39",
+        "animation_type": "5",
+        "author": null,
+        "secondary_type": null
+    },
+    "3_0": {
+        "animated_object": "3",
+        "animation_type": "0",
+        "author": null,
+        "secondary_type": null
+    },
+    "3_1": {
+        "animated_object": "3",
+        "animation_type": "1",
+        "author": null,
+        "secondary_type": null
+    },
+    "3_2": {
+        "animated_object": "3",
+        "animation_type": "2",
+        "author": null,
+        "secondary_type": null
+    },
+    "3_4": {
+        "animated_object": "3",
+        "animation_type": "4",
+        "author": null,
+        "secondary_type": null
+    },
+    "3_5": {
+        "animated_object": "3",
+        "animation_type": "5",
+        "author": null,
+        "secondary_type": null
+    },
+    "3_7x0": {
+        "animated_object": "3",
+        "animation_type": "0",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "3_7x1": {
+        "animated_object": "3",
+        "animation_type": "1",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "3_7x2": {
+        "animated_object": "3",
+        "animation_type": "2",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "3_7x3": {
+        "animated_object": "3",
+        "animation_type": "3",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "3_7x4": {
+        "animated_object": "3",
+        "animation_type": "4",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "401_0": {
+        "animated_object": "401",
+        "animation_type": "0",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "401_1": {
+        "animated_object": "401",
+        "animation_type": "1",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "401_2": {
+        "animated_object": "401",
+        "animation_type": "2",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "401_4": {
+        "animated_object": "401",
+        "animation_type": "4",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "401_5": {
+        "animated_object": "401",
+        "animation_type": "5",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "402_0": {
+        "animated_object": "402",
+        "animation_type": "0",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "402_1": {
+        "animated_object": "402",
+        "animation_type": "1",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "402_2": {
+        "animated_object": "402",
+        "animation_type": "2",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "402_4": {
+        "animated_object": "402",
+        "animation_type": "4",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "402_5": {
+        "animated_object": "402",
+        "animation_type": "5",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "403_0": {
+        "animated_object": "403",
+        "animation_type": "0",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "403_1": {
+        "animated_object": "403",
+        "animation_type": "1",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "403_2": {
+        "animated_object": "403",
+        "animation_type": "2",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "403_4": {
+        "animated_object": "403",
+        "animation_type": "4",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "403_5": {
+        "animated_object": "403",
+        "animation_type": "5",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "404_0": {
+        "animated_object": "404",
+        "animation_type": "0",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "404_1": {
+        "animated_object": "404",
+        "animation_type": "1",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "404_2": {
+        "animated_object": "404",
+        "animation_type": "2",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "404_4": {
+        "animated_object": "404",
+        "animation_type": "4",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "404_5": {
+        "animated_object": "404",
+        "animation_type": "5",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "405_0": {
+        "animated_object": "405",
+        "animation_type": "0",
+        "author": "818439E626",
+        "secondary_type": null
+    },
+    "405_1": {
+        "animated_object": "405",
+        "animation_type": "1",
+        "author": "818439E626",
+        "secondary_type": null
+    },
+    "405_2": {
+        "animated_object": "405",
+        "animation_type": "2",
+        "author": "818439E626",
+        "secondary_type": null
+    },
+    "405_4": {
+        "animated_object": "405",
+        "animation_type": "4",
+        "author": "818439E626",
+        "secondary_type": null
+    },
+    "405_5": {
+        "animated_object": "405",
+        "animation_type": "5",
+        "author": "818439E626",
+        "secondary_type": null
+    },
+    "413_0": {
+        "animated_object": "413",
+        "animation_type": "0",
+        "author": "818439E626",
+        "secondary_type": null
+    },
+    "413_1": {
+        "animated_object": "413",
+        "animation_type": "1",
+        "author": "818439E626",
+        "secondary_type": null
+    },
+    "413_2": {
+        "animated_object": "413",
+        "animation_type": "2",
+        "author": "818439E626",
+        "secondary_type": null
+    },
+    "413_4": {
+        "animated_object": "413",
+        "animation_type": "4",
+        "author": "818439E626",
+        "secondary_type": null
+    },
+    "413_5": {
+        "animated_object": "413",
+        "animation_type": "5",
+        "author": "818439E626",
+        "secondary_type": null
+    },
+    "414_0": {
+        "animated_object": "414",
+        "animation_type": "0",
+        "author": "818439E626",
+        "secondary_type": null
+    },
+    "414_1": {
+        "animated_object": "414",
+        "animation_type": "1",
+        "author": "818439E626",
+        "secondary_type": null
+    },
+    "414_2": {
+        "animated_object": "414",
+        "animation_type": "2",
+        "author": "818439E626",
+        "secondary_type": null
+    },
+    "414_4": {
+        "animated_object": "414",
+        "animation_type": "4",
+        "author": "818439E626",
+        "secondary_type": null
+    },
+    "414_5": {
+        "animated_object": "414",
+        "animation_type": "5",
+        "author": "818439E626",
+        "secondary_type": null
+    },
+    "43_0": {
+        "animated_object": "43",
+        "animation_type": "0",
+        "author": null,
+        "secondary_type": null
+    },
+    "43_1": {
+        "animated_object": "43",
+        "animation_type": "1",
+        "author": null,
+        "secondary_type": null
+    },
+    "43_2": {
+        "animated_object": "43",
+        "animation_type": "2",
+        "author": null,
+        "secondary_type": null
+    },
+    "43_4": {
+        "animated_object": "43",
+        "animation_type": "4",
+        "author": null,
+        "secondary_type": null
+    },
+    "43_5": {
+        "animated_object": "43",
+        "animation_type": "5",
+        "author": null,
+        "secondary_type": null
+    },
+    "44_0": {
+        "animated_object": "44",
+        "animation_type": "0",
+        "author": null,
+        "secondary_type": null
+    },
+    "44_1": {
+        "animated_object": "44",
+        "animation_type": "1",
+        "author": null,
+        "secondary_type": null
+    },
+    "44_2": {
+        "animated_object": "44",
+        "animation_type": "2",
+        "author": null,
+        "secondary_type": null
+    },
+    "44_4": {
+        "animated_object": "44",
+        "animation_type": "4",
+        "author": null,
+        "secondary_type": null
+    },
+    "44_5": {
+        "animated_object": "44",
+        "animation_type": "5",
+        "author": null,
+        "secondary_type": null
+    },
+    "45_0": {
+        "animated_object": "45",
+        "animation_type": "0",
+        "author": null,
+        "secondary_type": null
+    },
+    "45_1": {
+        "animated_object": "45",
+        "animation_type": "1",
+        "author": null,
+        "secondary_type": null
+    },
+    "45_2": {
+        "animated_object": "45",
+        "animation_type": "2",
+        "author": null,
+        "secondary_type": null
+    },
+    "45_4": {
+        "animated_object": "45",
+        "animation_type": "4",
+        "author": null,
+        "secondary_type": null
+    },
+    "45_5": {
+        "animated_object": "45",
+        "animation_type": "5",
+        "author": null,
+        "secondary_type": null
+    },
+    "49_0": {
+        "animated_object": "49",
+        "animation_type": "0",
+        "author": null,
+        "secondary_type": null
+    },
+    "49_1": {
+        "animated_object": "49",
+        "animation_type": "1",
+        "author": null,
+        "secondary_type": null
+    },
+    "49_2": {
+        "animated_object": "49",
+        "animation_type": "2",
+        "author": null,
+        "secondary_type": null
+    },
+    "49_4": {
+        "animated_object": "49",
+        "animation_type": "4",
+        "author": null,
+        "secondary_type": null
+    },
+    "49_5": {
+        "animated_object": "49",
+        "animation_type": "5",
+        "author": null,
+        "secondary_type": null
+    },
+    "4_0": {
+        "animated_object": "4",
+        "animation_type": "0",
+        "author": null,
+        "secondary_type": null
+    },
+    "4_1": {
+        "animated_object": "4",
+        "animation_type": "1",
+        "author": null,
+        "secondary_type": null
+    },
+    "4_2": {
+        "animated_object": "4",
+        "animation_type": "2",
+        "author": null,
+        "secondary_type": null
+    },
+    "4_4": {
+        "animated_object": "4",
+        "animation_type": "4",
+        "author": null,
+        "secondary_type": null
+    },
+    "4_5": {
+        "animated_object": "4",
+        "animation_type": "5",
+        "author": null,
+        "secondary_type": null
+    },
+    "4_7x0": {
+        "animated_object": "4",
+        "animation_type": "0",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "4_7x1": {
+        "animated_object": "4",
+        "animation_type": "1",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "4_7x2": {
+        "animated_object": "4",
+        "animation_type": "2",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "4_7x3": {
+        "animated_object": "4",
+        "animation_type": "3",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "4_7x4": {
+        "animated_object": "4",
+        "animation_type": "4",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "526_0": {
+        "animated_object": "526",
+        "animation_type": "0",
+        "author": null,
+        "secondary_type": null
+    },
+    "526_1": {
+        "animated_object": "526",
+        "animation_type": "1",
+        "author": null,
+        "secondary_type": null
+    },
+    "526_2": {
+        "animated_object": "526",
+        "animation_type": "2",
+        "author": null,
+        "secondary_type": null
+    },
+    "526_4": {
+        "animated_object": "526",
+        "animation_type": "4",
+        "author": null,
+        "secondary_type": null
+    },
+    "526_5": {
+        "animated_object": "526",
+        "animation_type": "5",
+        "author": null,
+        "secondary_type": null
+    },
+    "538_0": {
+        "animated_object": "538",
+        "animation_type": "0",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "538_1": {
+        "animated_object": "538",
+        "animation_type": "1",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "538_2": {
+        "animated_object": "538",
+        "animation_type": "2",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "538_4": {
+        "animated_object": "538",
+        "animation_type": "4",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "538_5": {
+        "animated_object": "538",
+        "animation_type": "5",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "539_0": {
+        "animated_object": "539",
+        "animation_type": "0",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "539_1": {
+        "animated_object": "539",
+        "animation_type": "1",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "539_2": {
+        "animated_object": "539",
+        "animation_type": "2",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "539_4": {
+        "animated_object": "539",
+        "animation_type": "4",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "539_5": {
+        "animated_object": "539",
+        "animation_type": "5",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "543_0": {
+        "animated_object": "543",
+        "animation_type": "0",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "543_1": {
+        "animated_object": "543",
+        "animation_type": "1",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "543_2": {
+        "animated_object": "543",
+        "animation_type": "2",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "543_4": {
+        "animated_object": "543",
+        "animation_type": "4",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "543_5": {
+        "animated_object": "543",
+        "animation_type": "5",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "551_0": {
+        "animated_object": "551",
+        "animation_type": "0",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "551_1": {
+        "animated_object": "551",
+        "animation_type": "1",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "551_2": {
+        "animated_object": "551",
+        "animation_type": "2",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "551_4": {
+        "animated_object": "551",
+        "animation_type": "4",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "551_5": {
+        "animated_object": "551",
+        "animation_type": "5",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "552_0": {
+        "animated_object": "552",
+        "animation_type": "0",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "552_1": {
+        "animated_object": "552",
+        "animation_type": "1",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "552_2": {
+        "animated_object": "552",
+        "animation_type": "2",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "552_4": {
+        "animated_object": "552",
+        "animation_type": "4",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "552_5": {
+        "animated_object": "552",
+        "animation_type": "5",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "553_0": {
+        "animated_object": "553",
+        "animation_type": "0",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "553_1": {
+        "animated_object": "553",
+        "animation_type": "1",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "553_2": {
+        "animated_object": "553",
+        "animation_type": "2",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "553_4": {
+        "animated_object": "553",
+        "animation_type": "4",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "553_5": {
+        "animated_object": "553",
+        "animation_type": "5",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "574_0": {
+        "animated_object": "574",
+        "animation_type": "0",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "574_1": {
+        "animated_object": "574",
+        "animation_type": "1",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "574_2": {
+        "animated_object": "574",
+        "animation_type": "2",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "574_4": {
+        "animated_object": "574",
+        "animation_type": "4",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "574_5": {
+        "animated_object": "574",
+        "animation_type": "5",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "5_0": {
+        "animated_object": "5",
+        "animation_type": "0",
+        "author": null,
+        "secondary_type": null
+    },
+    "5_1": {
+        "animated_object": "5",
+        "animation_type": "1",
+        "author": null,
+        "secondary_type": null
+    },
+    "5_2": {
+        "animated_object": "5",
+        "animation_type": "2",
+        "author": null,
+        "secondary_type": null
+    },
+    "5_4": {
+        "animated_object": "5",
+        "animation_type": "4",
+        "author": null,
+        "secondary_type": null
+    },
+    "5_5": {
+        "animated_object": "5",
+        "animation_type": "5",
+        "author": null,
+        "secondary_type": null
+    },
+    "5_7x0": {
+        "animated_object": "5",
+        "animation_type": "0",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "5_7x1": {
+        "animated_object": "5",
+        "animation_type": "1",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "5_7x2": {
+        "animated_object": "5",
+        "animation_type": "2",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "5_7x3": {
+        "animated_object": "5",
+        "animation_type": "3",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "5_7x4": {
+        "animated_object": "5",
+        "animation_type": "4",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "601_0": {
+        "animated_object": "601",
+        "animation_type": "0",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "601_1": {
+        "animated_object": "601",
+        "animation_type": "1",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "601_2": {
+        "animated_object": "601",
+        "animation_type": "2",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "601_4": {
+        "animated_object": "601",
+        "animation_type": "4",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "601_5": {
+        "animated_object": "601",
+        "animation_type": "5",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "602_0": {
+        "animated_object": "602",
+        "animation_type": "0",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "602_1": {
+        "animated_object": "602",
+        "animation_type": "1",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "602_2": {
+        "animated_object": "602",
+        "animation_type": "2",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "602_4": {
+        "animated_object": "602",
+        "animation_type": "4",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "602_5": {
+        "animated_object": "602",
+        "animation_type": "5",
+        "author": "38E3704DF8",
+        "secondary_type": null
+    },
+    "60_0": {
+        "animated_object": "60",
+        "animation_type": "0",
+        "author": null,
+        "secondary_type": null
+    },
+    "60_1": {
+        "animated_object": "60",
+        "animation_type": "1",
+        "author": null,
+        "secondary_type": null
+    },
+    "60_2": {
+        "animated_object": "60",
+        "animation_type": "2",
+        "author": null,
+        "secondary_type": null
+    },
+    "60_4": {
+        "animated_object": "60",
+        "animation_type": "4",
+        "author": null,
+        "secondary_type": null
+    },
+    "60_5": {
+        "animated_object": "60",
+        "animation_type": "5",
+        "author": null,
+        "secondary_type": null
+    },
+    "636_0": {
+        "animated_object": "636",
+        "animation_type": "0",
+        "author": null,
+        "secondary_type": null
+    },
+    "636_1": {
+        "animated_object": "636",
+        "animation_type": "1",
+        "author": null,
+        "secondary_type": null
+    },
+    "636_2": {
+        "animated_object": "636",
+        "animation_type": "2",
+        "author": null,
+        "secondary_type": null
+    },
+    "636_4": {
+        "animated_object": "636",
+        "animation_type": "4",
+        "author": null,
+        "secondary_type": null
+    },
+    "636_5": {
+        "animated_object": "636",
+        "animation_type": "5",
+        "author": null,
+        "secondary_type": null
+    },
+    "637_0": {
+        "animated_object": "637",
+        "animation_type": "0",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "637_1": {
+        "animated_object": "637",
+        "animation_type": "1",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "637_2": {
+        "animated_object": "637",
+        "animation_type": "2",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "637_4": {
+        "animated_object": "637",
+        "animation_type": "4",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "637_5": {
+        "animated_object": "637",
+        "animation_type": "5",
+        "author": "9EAB7F458D",
+        "secondary_type": null
+    },
+    "638_0": {
+        "animated_object": "638",
+        "animation_type": "0",
+        "author": null,
+        "secondary_type": null
+    },
+    "638_1": {
+        "animated_object": "638",
+        "animation_type": "1",
+        "author": null,
+        "secondary_type": null
+    },
+    "638_2": {
+        "animated_object": "638",
+        "animation_type": "2",
+        "author": null,
+        "secondary_type": null
+    },
+    "638_4": {
+        "animated_object": "638",
+        "animation_type": "4",
+        "author": null,
+        "secondary_type": null
+    },
+    "638_5": {
+        "animated_object": "638",
+        "animation_type": "5",
+        "author": null,
+        "secondary_type": null
+    },
+    "63_0": {
+        "animated_object": "63",
+        "animation_type": "0",
+        "author": null,
+        "secondary_type": null
+    },
+    "63_1": {
+        "animated_object": "63",
+        "animation_type": "1",
+        "author": null,
+        "secondary_type": null
+    },
+    "63_2": {
+        "animated_object": "63",
+        "animation_type": "2",
+        "author": null,
+        "secondary_type": null
+    },
+    "63_4": {
+        "animated_object": "63",
+        "animation_type": "4",
+        "author": null,
+        "secondary_type": null
+    },
+    "63_5": {
+        "animated_object": "63",
+        "animation_type": "5",
+        "author": null,
+        "secondary_type": null
+    },
+    "686_0": {
+        "animated_object": "686",
+        "animation_type": "0",
+        "author": "B6B731B87D",
+        "secondary_type": null
+    },
+    "686_1": {
+        "animated_object": "686",
+        "animation_type": "1",
+        "author": "B6B731B87D",
+        "secondary_type": null
+    },
+    "686_2": {
+        "animated_object": "686",
+        "animation_type": "2",
+        "author": "B6B731B87D",
+        "secondary_type": null
+    },
+    "686_4": {
+        "animated_object": "686",
+        "animation_type": "4",
+        "author": "B6B731B87D",
+        "secondary_type": null
+    },
+    "686_5": {
+        "animated_object": "686",
+        "animation_type": "5",
+        "author": "B6B731B87D",
+        "secondary_type": null
+    },
+    "689_0": {
+        "animated_object": "689",
+        "animation_type": "0",
+        "author": "B6B731B87D",
+        "secondary_type": null
+    },
+    "689_1": {
+        "animated_object": "689",
+        "animation_type": "1",
+        "author": "B6B731B87D",
+        "secondary_type": null
+    },
+    "689_2": {
+        "animated_object": "689",
+        "animation_type": "2",
+        "author": "B6B731B87D",
+        "secondary_type": null
+    },
+    "689_4": {
+        "animated_object": "689",
+        "animation_type": "4",
+        "author": "B6B731B87D",
+        "secondary_type": null
+    },
+    "689_5": {
+        "animated_object": "689",
+        "animation_type": "5",
+        "author": "B6B731B87D",
+        "secondary_type": null
+    },
+    "691_0": {
+        "animated_object": "691",
+        "animation_type": "0",
+        "author": "072477BB4E",
+        "secondary_type": null
+    },
+    "691_1": {
+        "animated_object": "691",
+        "animation_type": "1",
+        "author": "072477BB4E",
+        "secondary_type": null
+    },
+    "691_2": {
+        "animated_object": "691",
+        "animation_type": "2",
+        "author": "072477BB4E",
+        "secondary_type": null
+    },
+    "691_4": {
+        "animated_object": "691",
+        "animation_type": "4",
+        "author": "072477BB4E",
+        "secondary_type": null
+    },
+    "691_5": {
+        "animated_object": "691",
+        "animation_type": "5",
+        "author": "072477BB4E",
+        "secondary_type": null
+    },
+    "6_0": {
+        "animated_object": "6",
+        "animation_type": "0",
+        "author": "5ED1F9012B",
+        "secondary_type": null
+    },
+    "6_1": {
+        "animated_object": "6",
+        "animation_type": "1",
+        "author": "5ED1F9012B",
+        "secondary_type": null
+    },
+    "6_2": {
+        "animated_object": "6",
+        "animation_type": "2",
+        "author": "5ED1F9012B",
+        "secondary_type": null
+    },
+    "6_4": {
+        "animated_object": "6",
+        "animation_type": "4",
+        "author": "5ED1F9012B",
+        "secondary_type": null
+    },
+    "6_5": {
+        "animated_object": "6",
+        "animation_type": "5",
+        "author": "5ED1F9012B",
+        "secondary_type": null
+    },
+    "6_7x0": {
+        "animated_object": "6",
+        "animation_type": "0",
+        "author": "5ED1F9012B",
+        "secondary_type": "7"
+    },
+    "6_7x1": {
+        "animated_object": "6",
+        "animation_type": "1",
+        "author": "5ED1F9012B",
+        "secondary_type": "7"
+    },
+    "6_7x2": {
+        "animated_object": "6",
+        "animation_type": "2",
+        "author": "5ED1F9012B",
+        "secondary_type": "7"
+    },
+    "6_7x3": {
+        "animated_object": "6",
+        "animation_type": "3",
+        "author": "5ED1F9012B",
+        "secondary_type": "7"
+    },
+    "6_7x4": {
+        "animated_object": "6",
+        "animation_type": "4",
+        "author": "5ED1F9012B",
+        "secondary_type": "7"
+    },
+    "7_0": {
+        "animated_object": "7",
+        "animation_type": "0",
+        "author": null,
+        "secondary_type": null
+    },
+    "7_1": {
+        "animated_object": "7",
+        "animation_type": "1",
+        "author": null,
+        "secondary_type": null
+    },
+    "7_2": {
+        "animated_object": "7",
+        "animation_type": "2",
+        "author": null,
+        "secondary_type": null
+    },
+    "7_4": {
+        "animated_object": "7",
+        "animation_type": "4",
+        "author": null,
+        "secondary_type": null
+    },
+    "7_5": {
+        "animated_object": "7",
+        "animation_type": "5",
+        "author": null,
+        "secondary_type": null
+    },
+    "7_7x0": {
+        "animated_object": "7",
+        "animation_type": "0",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "7_7x1": {
+        "animated_object": "7",
+        "animation_type": "1",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "7_7x2": {
+        "animated_object": "7",
+        "animation_type": "2",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "7_7x3": {
+        "animated_object": "7",
+        "animation_type": "3",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "7_7x4": {
+        "animated_object": "7",
+        "animation_type": "4",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "8_0": {
+        "animated_object": "8",
+        "animation_type": "0",
+        "author": null,
+        "secondary_type": null
+    },
+    "8_1": {
+        "animated_object": "8",
+        "animation_type": "1",
+        "author": null,
+        "secondary_type": null
+    },
+    "8_2": {
+        "animated_object": "8",
+        "animation_type": "2",
+        "author": null,
+        "secondary_type": null
+    },
+    "8_4": {
+        "animated_object": "8",
+        "animation_type": "4",
+        "author": null,
+        "secondary_type": null
+    },
+    "8_5": {
+        "animated_object": "8",
+        "animation_type": "5",
+        "author": null,
+        "secondary_type": null
+    },
+    "8_7x0": {
+        "animated_object": "8",
+        "animation_type": "0",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "8_7x1": {
+        "animated_object": "8",
+        "animation_type": "1",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "8_7x2": {
+        "animated_object": "8",
+        "animation_type": "2",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "8_7x3": {
+        "animated_object": "8",
+        "animation_type": "3",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "8_7x4": {
+        "animated_object": "8",
+        "animation_type": "4",
+        "author": null,
+        "secondary_type": "7"
+    },
+    "9_0": {
+        "animated_object": "9",
+        "animation_type": "0",
+        "author": "5ED1F9012B",
+        "secondary_type": null
+    },
+    "9_1": {
+        "animated_object": "9",
+        "animation_type": "1",
+        "author": "5ED1F9012B",
+        "secondary_type": null
+    },
+    "9_2": {
+        "animated_object": "9",
+        "animation_type": "2",
+        "author": "5ED1F9012B",
+        "secondary_type": null
+    },
+    "9_4": {
+        "animated_object": "9",
+        "animation_type": "4",
+        "author": "5ED1F9012B",
+        "secondary_type": null
+    },
+    "9_5": {
+        "animated_object": "9",
+        "animation_type": "5",
+        "author": "5ED1F9012B",
+        "secondary_type": null
+    },
+    "9_7x0": {
+        "animated_object": "9",
+        "animation_type": "0",
+        "author": "5ED1F9012B",
+        "secondary_type": "7"
+    },
+    "9_7x1": {
+        "animated_object": "9",
+        "animation_type": "1",
+        "author": "5ED1F9012B",
+        "secondary_type": "7"
+    },
+    "9_7x2": {
+        "animated_object": "9",
+        "animation_type": "2",
+        "author": "5ED1F9012B",
+        "secondary_type": "7"
+    },
+    "9_7x3": {
+        "animated_object": "9",
+        "animation_type": "3",
+        "author": "5ED1F9012B",
+        "secondary_type": "7"
+    },
+    "9_7x4": {
+        "animated_object": "9",
+        "animation_type": "4",
+        "author": "5ED1F9012B",
+        "secondary_type": "7"
+    }
+}

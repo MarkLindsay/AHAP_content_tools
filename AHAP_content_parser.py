@@ -422,7 +422,9 @@ def get_content_paths(data_source_path, tag=None):
     Returns a dictionary of all relevant paths.
     If tag is provided, returns paths for the versioned output directory.
     """
+    script_dir = os.path.dirname(__file__)
     base_paths = {
+        "script_dir": script_dir,
         "objects": os.path.join(data_source_path, "objects"),
         "sprites": os.path.join(data_source_path, "sprites"),
         "transitions": os.path.join(data_source_path, "transitions"),
@@ -430,10 +432,8 @@ def get_content_paths(data_source_path, tag=None):
         "sounds": os.path.join(data_source_path, "sounds"),
     }
     if tag:
-        script_dir = os.path.dirname(__file__)
         version_dir = os.path.join(script_dir, "AHAP_Versions", tag)
         base_paths.update({
-            "script_dir": script_dir,
             "version_dir": version_dir,
             "objects_json": os.path.join(version_dir, "content_objects.json"),
             "sprites_json": os.path.join(version_dir, "content_sprites.json"),
@@ -583,7 +583,18 @@ def main():
         write_json(sounds, paths["sounds_json"])
         print(f"Regenerating sounds is done: {len(sounds)}")
         print()
-
+        
+        # Also write to the latest JSON directory
+        if content_parser_mode == "latest":
+            paths = get_content_paths(config["data_source_path"], "latest")
+            if not os.path.exists(paths["version_dir"]):
+                os.makedirs(paths["version_dir"])
+            write_json(objects, paths["objects_json"])
+            write_json(sprites, paths["sprites_json"])
+            write_json(transitions, paths["transitions_json"])
+            write_json(animations, paths["animations_json"])
+            write_json(sounds, paths["sounds_json"])
+        
     # Checkout back to your original branch or commit
     if content_parser_mode != "working":
         print(f"Returning to previous HEAD: {current_head}")

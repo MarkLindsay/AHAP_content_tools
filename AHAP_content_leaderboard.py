@@ -259,42 +259,61 @@ def main():
 
         # save leaderboard files
         # objects
-        leaderboard = generate_leaderboard("Objects", "author", objects)
+        objects_leaderboard = generate_leaderboard("Objects", "author", objects)
         output_path = os.path.join(paths["version_dir"], "leaderboard_objects.txt")
         with open(output_path, "w") as file:
-            file.write(leaderboard)
-        print(leaderboard)
+            file.write(objects_leaderboard)
+        print(objects_leaderboard)
 
         # sprites
-        leaderboard = generate_leaderboard("Sprites", "author", sprites)
+        sprites_leaderboard = generate_leaderboard("Sprites", "author", sprites)
         output_path = os.path.join(paths["version_dir"], "leaderboard_sprites.txt")
         with open(output_path, "w") as file:
-            file.write(leaderboard)
-        print(leaderboard)
+            file.write(sprites_leaderboard)
+        print(sprites_leaderboard)
 
         # transitions
-        leaderboard = generate_leaderboard("Transitions", "author", transitions)
+        transitions_leaderboard = generate_leaderboard("Transitions", "author", transitions)
         output_path = os.path.join(paths["version_dir"], "leaderboard_transitions.txt")
         with open(output_path, "w") as file:
-            file.write(leaderboard)
-        print(leaderboard)
+            file.write(transitions_leaderboard)
+        print(transitions_leaderboard)
 
         # animations
-        leaderboard = generate_leaderboard("Animations", "author", animations)
+        animations_leaderboard = generate_leaderboard("Animations", "author", animations)
         output_path = os.path.join(paths["version_dir"], "leaderboard_animations.txt")
         with open(output_path, "w") as file:
-            file.write(leaderboard)
-        print(leaderboard)
+            file.write(animations_leaderboard)
+        print(animations_leaderboard)
 
         # sounds
-        leaderboard = generate_leaderboard("Sounds", "author", sounds)
+        sounds_leaderboard = generate_leaderboard("Sounds", "author", sounds)
         output_path = os.path.join(paths["version_dir"], "leaderboard_sounds.txt")
         with open(output_path, "w") as file:
-            file.write(leaderboard)
-        print(leaderboard)
+            file.write(sounds_leaderboard)
+        print(sounds_leaderboard)
 
         # all together
         save_leaderboard_all(paths["version_dir"])
+        
+        # Also write leaderboards the latest JSON directory
+        if content_parser_mode == "latest":
+            output_path = os.path.join(paths["script_dir"], "AHAP_Versions", "latest", "leaderboard_objects.txt")
+            with open(output_path, "w") as file:
+                file.write(objects_leaderboard)
+            output_path = os.path.join(paths["script_dir"], "AHAP_Versions", "latest", "leaderboard_sprites.txt")
+            with open(output_path, "w") as file:
+                file.write(sprites_leaderboard)
+            output_path = os.path.join(paths["script_dir"], "AHAP_Versions", "latest", "leaderboard_transitions.txt")
+            with open(output_path, "w") as file:
+                file.write(transitions_leaderboard)
+            output_path = os.path.join(paths["script_dir"], "AHAP_Versions", "latest", "leaderboard_animations.txt")
+            with open(output_path, "w") as file:
+                file.write(animations_leaderboard)
+            output_path = os.path.join(paths["script_dir"], "AHAP_Versions", "latest", "leaderboard_sounds.txt")
+            with open(output_path, "w") as file:
+                file.write(sounds_leaderboard)
+            save_leaderboard_all(os.path.join(paths["script_dir"], "AHAP_Versions", "latest"))
 
         # save author files
         author_objects = {
@@ -324,6 +343,15 @@ def main():
                 recipe = f"{actor} + {target} | {new_actor} & {new_target} | {k}"
                 author_transitions[author].append(recipe)
         write_json(os.path.join(paths["version_dir"], "author_transitions.json"), author_transitions)
+
+
+        if content_parser_mode == "latest":
+            write_json(os.path.join(paths["script_dir"], "AHAP_Versions", "latest", "author_objects.json"), author_objects)
+            write_json(os.path.join(paths["script_dir"], "AHAP_Versions", "latest", "author_sprites.json"), author_sprites)
+            write_json(os.path.join(paths["script_dir"], "AHAP_Versions", "latest", "author_transitions.json"), author_transitions)
+            #write_json(os.path.join(paths["script_dir"], "AHAP_Versions", "latest", "author_animations.json"), author_animations)
+            #write_json(os.path.join(paths["script_dir"], "AHAP_Versions", "latest", "author_sounds.json"), author_sounds)
+
 
         # generate author handles file
         author_handles_path = os.path.join(paths["script_dir"], "author_handles.json")

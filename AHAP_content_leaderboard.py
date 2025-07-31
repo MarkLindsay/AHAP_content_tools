@@ -9,10 +9,24 @@ def read_json(filepath):
         data = json.load(file)
     return data
 
+def deep_sort_json(data):
+    if isinstance(data, dict):
+        # Sort dictionary keys and recursively sort values
+        return {k: deep_sort_json(data[k]) for k in sorted(data, key=lambda x: str(x).lower())}
+    elif isinstance(data, list):
+        # Sort lists (if elements are sortable) and recursively sort elements
+        try:
+            return sorted((deep_sort_json(item) for item in data), key=lambda x: str(x).lower())
+        except TypeError:
+            # If items are not directly comparable, just sort each item
+            return [deep_sort_json(item) for item in data]
+    else:
+        return data
 
 def write_json(filepath, data):
+    sorted_data = deep_sort_json(data)
     with open(filepath, "w") as file:
-        json.dump(data, file, indent=4)
+        json.dump(sorted_data, file, indent=4)
 
 
 def count_attribute(items, attribute):

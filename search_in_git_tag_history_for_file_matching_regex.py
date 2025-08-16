@@ -15,11 +15,11 @@ It is assumed that the repository has a structure where the objects folder exist
 
 # Global variables
 REPO_DIR = "/home/mark/OHOL/AHAP/AnotherPlanetData"  # Replace with your repository path
-SEARCH_STRING = " 1332 "  # Define the search string globally
+SEARCH_STRING = "Female006"  # Define the search string globally
 REVERSE_TAGS = False  # Set to True to reverse the order of tags
 PAUSE_ON_MATCH = False  # Set to True to pause after matches are found
 # SEARCH_FOLDER = "objects"  # Folder to search within each tag
-SEARCH_FOLDER = "transitions"  # Folder to search within each tag
+SEARCH_FOLDER = "objects"  # Folder to search within each tag
 
 def check_clean_working_tree():
     """Ensure the working tree is clean before proceeding."""

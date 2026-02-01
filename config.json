@@ -1,5 +1,5 @@
 {
-    "data_source_path": "/home/mark/OHOL/AHAP/AnotherPlanetData",
-    "content_parser_mode": "latest",
+    "data_source_path": "/home/mark/Documents/AHAP_dev/AHAP/AnotherPlanetData",
+    "content_parser_mode": "missing",
     "use_author_handles": true
 }

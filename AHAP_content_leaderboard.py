@@ -230,9 +230,70 @@ def get_object_name_by_id(objects, object_id):
     elif object_id == "-2":
         name = "photo?"
     else:
-        name = objects.get(object_id)["name"]
+        try:
+            object_name = objects.get(object_id)["name"]
+        except (KeyError, TypeError):
+            object_name = None
+        if object_name == None:
+            name = "object does not exist"
+        else:
+            name = object_name
     return name
 
+
+
+def filter_tags_by_mode(tags, content_parser_mode, config):
+    """
+    Filter tags based on the specified mode.
+    Modes:
+    - "working": Returns only the "working" tag. (default mode)
+    - "latest": Returns the latest tag.
+    - "missing": Returns tags that are missing in the data source path.
+    - "all": Returns all tags.
+    """
+    tags = [tag for tag in tags if "AnotherPlanet_v" in tag]
+    match content_parser_mode:
+        case "working":
+            tags = ["working"]
+        case "latest":
+            tags = [tags[-1]]
+        case "missing":
+            missing_tags = []
+            for tag in tags:
+                version_dir = AHAP_content_parser.get_content_paths(config["data_source_path"], tag)["version_dir"]
+                file_path = os.path.join(version_dir, "leaderboard_objects.txt")
+                if not os.path.exists(file_path):
+                    missing_tags.append(tag)
+            tags = missing_tags
+        case "all":
+            pass
+        case _:
+            raise ValueError(f"Unknown content_parser_mode: {content_parser_mode}")
+    return tags
+
+
+def generate_author_handles(paths, objects, sprites, transitions, animations, sounds):
+    # generate author handles file
+    author_handles_path = os.path.join(paths["script_dir"], "author_handles.json")
+    if not os.path.exists(author_handles_path):
+        author_handles = {}
+    else:
+        author_handles = read_json(author_handles_path)
+    all_authors = (
+        set(author_handles.keys())
+        .union(set(v.get("author") for v in objects.values()))
+        .union(set(v.get("author") for v in sprites.values()))
+        .union(set(v.get("author") for v in transitions.values()))
+        .union(set(v.get("author") for v in animations.values()))
+        .union(set(v.get("author") for v in sounds.values()))
+    )
+    for author in all_authors:
+        if author == None:
+            author = "blank"
+            author_handles[author] = {"handle": "jason"}
+        if author not in author_handles:
+            author_handles[author] = {"handle": ""}
+    write_json(author_handles_path, author_handles)
 
 def main():
     config = AHAP_content_parser.load_config()
@@ -244,7 +305,7 @@ def main():
     # develop the list of tags to work over
     content_parser_mode = config.get("content_parser_mode", "working")
     tags = AHAP_content_parser.get_git_tags()
-    tags = AHAP_content_parser.filter_tags_by_mode(tags, content_parser_mode, config)
+    tags = filter_tags_by_mode(tags, content_parser_mode, config)
 
     # Loop through each tag
     for tag in tags:
@@ -270,6 +331,9 @@ def main():
         transitions = read_json(paths["transitions_json"])
         animations = read_json(paths["animations_json"])
         sounds = read_json(paths["sounds_json"])
+
+        # generate author handles
+        generate_author_handles(paths, objects, sprites, transitions, animations, sounds)
 
         # save leaderboard files
         # objects
@@ -365,29 +429,6 @@ def main():
             write_json(os.path.join(paths["script_dir"], "AHAP_Versions", "latest", "author_transitions.json"), author_transitions)
             #write_json(os.path.join(paths["script_dir"], "AHAP_Versions", "latest", "author_animations.json"), author_animations)
             #write_json(os.path.join(paths["script_dir"], "AHAP_Versions", "latest", "author_sounds.json"), author_sounds)
-
-
-        # generate author handles file
-        author_handles_path = os.path.join(paths["script_dir"], "author_handles.json")
-        if not os.path.exists(author_handles_path):
-            author_handles = {}
-        else:
-            author_handles = read_json(author_handles_path)
-        all_authors = (
-            set(author_handles.keys())
-            .union(set(v.get("author") for v in objects.values()))
-            .union(set(v.get("author") for v in sprites.values()))
-            .union(set(v.get("author") for v in transitions.values()))
-            .union(set(v.get("author") for v in animations.values()))
-            .union(set(v.get("author") for v in sounds.values()))
-        )
-        for author in all_authors:
-            if author == None:
-                author = "blank"
-                author_handles[author] = {"handle": "jason"}
-            if author not in author_handles:
-                author_handles[author] = {"handle": ""}
-        write_json(author_handles_path, author_handles)
 
     # Checkout back to your original branch or commit
     if content_parser_mode != "working":

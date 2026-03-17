@@ -394,10 +394,16 @@ def main():
             save_leaderboard_all(os.path.join(paths["script_dir"], "AHAP_Versions", "latest"))
 
         # save author files
-        author_objects = {
-            author: [v["name"] for k, v in objects.items() if v.get("author") == author]
-            for author in set(v.get("author") for v in objects.values())
-        }
+        # author_objects = {
+        #     author: [v["name"] for k, v in objects.items() if v.get("author") == author]
+        #     for author in set(v.get("author") for v in objects.values())
+        # }
+        author_objects = {}
+        for v in objects.values():
+            author = v.get("author")
+            if author not in author_objects:
+                author_objects[author] = []
+            author_objects[author].append(v["name"])
         write_json(os.path.join(paths["version_dir"], "author_objects.json"), author_objects)
 
         author_sprites = {

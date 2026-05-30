@@ -1,5 +1,5 @@
 {
     "data_source_path": "/home/mark/Documents/AHAP_dev/AHAP/AnotherPlanetData",
-    "content_parser_mode": "missing",
+    "content_parser_mode": "working",
     "use_author_handles": true
 }

@@ -4,6 +4,7 @@ import json
 import glob
 import subprocess
 
+
 def get_pattern_object():
     return r"""id=(?P<id>\d+)\n
                (?P<name>^[^#=\n]*)((?P<tag_splitter>[# ]+)(?P<tags>[^\n]*))?\n
@@ -118,11 +119,22 @@ def get_pattern_slot_pos():
     return r"""slotPos=(?P<slotPosX>-?\d+\.\d+),(?P<slotPosY>-?\d+\.\d+),vert=(?P<vert>-?\d+),parent=(?P<parent>-?\d+)"""
 
 
+def get_pattern_category_header():
+    return r"""parentID=(?P<parent_object_id>\d+)\n
+               ((?P<category_type>pattern|probSet)\n)?
+               numObjects=(?P<number_of_objects_in_category>\d+)\n"""
+
+
+def get_pattern_category_items():
+    return (
+        r"""^(?P<category_item>\d+)([ ](?P<category_item_probability>\d+\.\d+))?\n?"""
+    )
+
+
 def get_transition_attributes(transition_id, transition_text):
     attributes = {}
     # Get the attributes from the transition id
-    attributes.update(get_regex_dict(
-        transition_id, get_pattern_transition_file_name()))
+    attributes.update(get_regex_dict(transition_id, get_pattern_transition_file_name()))
     if attributes["last_actor"] != None:
         attributes["last_actor"] = True
     else:
@@ -132,30 +144,35 @@ def get_transition_attributes(transition_id, transition_text):
     else:
         attributes["last_target"] = False
     # Get the attributes from the transition text
-    attributes.update(get_regex_dict(
-        transition_text, get_pattern_transition()))
+    attributes.update(get_regex_dict(transition_text, get_pattern_transition()))
     return attributes
 
 
 def get_animation_attributes(animation_id, animation_text):
     attributes = {}
     # Get the attributes from the animation id
-    attributes.update(get_regex_dict(
-        animation_id, get_pattern_animation_file_name()))
+    attributes.update(get_regex_dict(animation_id, get_pattern_animation_file_name()))
     # Get the attributes from the animation text
-    attributes.update(get_regex_dict(
-        animation_text, get_pattern_animation()))
+    attributes.update(get_regex_dict(animation_text, get_pattern_animation()))
     return attributes
 
 
 def get_sound_attributes(sound_id, sound_text):
     attributes = {}
     # Get the attributes from the sound id
-    attributes.update(get_regex_dict(
-        sound_id, get_pattern_sound_file_name()))
+    attributes.update(get_regex_dict(sound_id, get_pattern_sound_file_name()))
     # Get the attributes from the sound text
-    attributes.update(get_regex_dict(
-        sound_text, get_pattern_sound()))
+    attributes.update(get_regex_dict(sound_text, get_pattern_sound()))
+    return attributes
+
+
+def get_category_attributes(category_id, category_text):
+    attributes = {}
+    # get the header info
+    attributes.update(get_regex_dict(category_text, get_pattern_category_header()))
+    # get the item info
+    category_text, category_items = extract_category_items(category_text)
+    attributes["category_objects_list"] = category_items
     return attributes
 
 
@@ -194,6 +211,18 @@ def extract_object_sprites(object_text):
     return text_reduced, sprites
 
 
+def extract_category_items(category_text):
+    """
+    Extract list of items and associated probabilities.
+    Also removes the item text before returning it.
+    """
+    pattern = re.compile(get_pattern_category_items(), re.VERBOSE | re.MULTILINE)
+    matches = pattern.finditer(category_text)
+    category_items = [match.groupdict() for match in matches]
+    text_reduced = pattern.sub("", category_text)
+    return text_reduced, category_items
+
+
 def extract_object_slotPos(object_text):
     """
     Extract list of slotPos.
@@ -228,8 +257,7 @@ def get_file_text(object_path):
 
 def get_text_file_names(data_path):
     text_files = glob.glob(data_path + "/*.txt")
-    text_file_names = [re.split(r"[/]|[.]", text_file)[-2]
-                       for text_file in text_files]
+    text_file_names = [re.split(r"[/]|[.]", text_file)[-2] for text_file in text_files]
     return text_file_names
 
 
@@ -248,8 +276,7 @@ def split_sound(sound_data):
 
 def regenerate_json_objects(data_path):
     object_file_names = get_text_file_names(data_path)
-    object_ids = [
-        file_name for file_name in object_file_names if file_name.isnumeric()]
+    object_ids = [file_name for file_name in object_file_names if file_name.isnumeric()]
     object_others = [
         file_name for file_name in object_file_names if not file_name.isnumeric()
     ]
@@ -263,7 +290,8 @@ def regenerate_json_objects(data_path):
             # if object_id == "1206":
             #     print(object_text)
             object_attributes = get_attributes_one_by_one(
-                object_text, get_pattern_object())
+                object_text, get_pattern_object()
+            )
             if object_attributes["biomes"]:
                 object_attributes["biomes"] = object_attributes["biomes"].split(",")
             else:
@@ -276,49 +304,51 @@ def regenerate_json_objects(data_path):
                 object_attributes["spritesAdditiveBlend"] = object_attributes["spritesAdditiveBlend"].split(",")
             else:
                 object_attributes["spritesAdditiveBlend"] = ["0"]
-            
+
             if object_attributes["spritesDrawnBehind"] != None:
                 object_attributes["spritesDrawnBehind"].split(",")
             else:
                 object_attributes["spritesDrawnBehind"] = ["0"]
-            
+
             object_attributes["useVanishIndex"] = object_attributes["useVanishIndex"].split(",")
             object_attributes["useAppearIndex"] = object_attributes["useAppearIndex"].split(",")
-            
+
             object_attributes["sound_creation"] = split_sound(object_attributes["sound_creation"])
             object_attributes["sound_using"] = split_sound(object_attributes["sound_using"])
             object_attributes["sound_eating"] = split_sound(object_attributes["sound_eating"])
             object_attributes["sound_decay"] = split_sound(object_attributes["sound_decay"])
-            
+
             object_attributes["backFootIndex"] = object_attributes["backFootIndex"].split(",")
             object_attributes["frontFootIndex"] = object_attributes["frontFootIndex"].split(",")
-            
+
             content_objects[object_id] = object_attributes
             content_objects[object_id]["sprites"] = object_sprites
             content_objects[object_id]["slotPos"] = object_slotPos
         else:
             content_objects[object_id] = None
     sorted_content_objects = dict(
-        sorted(content_objects.items(), key=lambda item: int(item[0])))
+        sorted(content_objects.items(), key=lambda item: int(item[0]))
+    )
     return sorted_content_objects
 
 
 def regenerate_json_sprites(data_path):
     sprite_file_names = get_text_file_names(data_path)
-    sprite_ids = [
-        file_name for file_name in sprite_file_names if file_name.isnumeric()]
+    sprite_ids = [file_name for file_name in sprite_file_names if file_name.isnumeric()]
     content_sprites = {}
     for sprite_id in sprite_ids:
         sprite_file_path = os.path.join(data_path, f"{sprite_id}.txt")
         sprite_text = get_file_text(sprite_file_path)
         if sprite_text is not None:
             sprite_attributes = get_attributes_one_by_one(
-                sprite_text, get_pattern_sprite())
+                sprite_text, get_pattern_sprite()
+            )
             content_sprites[sprite_id] = sprite_attributes
         else:
             content_sprites[sprite_id] = None
     sorted_content_sprites = dict(
-        sorted(content_sprites.items(), key=lambda item: int(item[0])))
+        sorted(content_sprites.items(), key=lambda item: int(item[0]))
+    )
     return sorted_content_sprites
 
 
@@ -338,14 +368,17 @@ def regenerate_json_transitions(data_path):
         else:
             content_transitions[transition_id] = None
     # Define a custom sorting key function
+
     def sorting_key(item):
         transition = item[1]
         actor = int(transition.get("actor", ""))
         target = int(transition.get("target", ""))
         return (actor, target)
+
     # Sort the dictionary by the custom key
     sorted_content_transitions = dict(
-        sorted(content_transitions.items(), key=sorting_key))
+        sorted(content_transitions.items(), key=sorting_key)
+    )
     return sorted_content_transitions
 
 
@@ -365,21 +398,23 @@ def regenerate_json_animations(data_path):
         else:
             content_animations[animation_id] = None
     # Define a custom sorting key function
+
     def sorting_key(item):
         animation = item[1]
         animated_object = int(animation.get("animated_object", ""))
         animation_type = int(animation.get("animation_type", ""))
         return (animated_object, animation_type)
+
     # Sort the dictionary by the custom key
     sorted_content_animations = dict(
-        sorted(content_animations.items(), key=sorting_key))
+        sorted(content_animations.items(), key=sorting_key)
+    )
     return sorted_content_animations
 
 
 def get_aiff_file_names(data_path):
     text_files = glob.glob(data_path + "/*.aiff")
-    text_file_names = [re.split(r"[/]|[.]", text_file)[-2]
-                       for text_file in text_files]
+    text_file_names = [re.split(r"[/]|[.]", text_file)[-2] for text_file in text_files]
     return text_file_names
 
 
@@ -394,21 +429,46 @@ def regenerate_json_sounds(data_path):
         sound_file_path = os.path.join(data_path, f"{sound_id}.txt")
         sound_text = get_file_text(sound_file_path)
         if sound_text is not None:
-            sound_attributes = get_sound_attributes(
-                sound_id, sound_text
-            )
+            sound_attributes = get_sound_attributes(sound_id, sound_text)
             content_sounds[sound_id] = sound_attributes
         else:
-            content_sounds[sound_id] = {"sound_id":sound_id, "author":None}
+            content_sounds[sound_id] = {"sound_id": sound_id, "author": None}
     # Define a custom sorting key function
+
     def sorting_key(item):
         sound = item[1]
         sound_id = int(sound.get("sound_id", ""))
         return (sound_id)
     # Sort the dictionary by the custom key
-    sorted_content_sounds = dict(
-        sorted(content_sounds.items(), key=sorting_key))
+    sorted_content_sounds = dict(sorted(content_sounds.items(), key=sorting_key))
     return sorted_content_sounds
+
+
+def regenerate_json_categories(data_path):
+    # get a list of text files in folder
+    category_file_names = get_text_file_names(data_path)
+    # reduce to only numeric file names
+    category_ids = [
+        file_name for file_name in category_file_names if file_name.isnumeric()
+    ]
+    category_others = [
+        file_name for file_name in category_file_names if not file_name.isnumeric()
+    ]
+    # initialize the dictionary of categories keyed by ID.
+    content_categories = {}
+    for category_id in category_ids:
+        category_file_path = os.path.join(data_path, f"{category_id}.txt")
+        category_text = get_file_text(category_file_path)
+        if category_text is not None:
+            category_attributes = get_category_attributes(category_id, category_text)
+            # store in id
+            content_categories[category_id] = category_attributes
+        else:
+            content_categories[category_id] = None
+    sorted_content_categories = dict(
+        sorted(content_categories.items(), key=lambda item: int(item[0]))
+    )
+    return sorted_content_categories
 
 
 def load_config():
@@ -430,17 +490,23 @@ def get_content_paths(data_source_path, tag=None):
         "transitions": os.path.join(data_source_path, "transitions"),
         "animations": os.path.join(data_source_path, "animations"),
         "sounds": os.path.join(data_source_path, "sounds"),
+        "categories": os.path.join(data_source_path, "categories"),
     }
     if tag:
         version_dir = os.path.join(script_dir, "AHAP_Versions", tag)
-        base_paths.update({
-            "version_dir": version_dir,
-            "objects_json": os.path.join(version_dir, "content_objects.json"),
-            "sprites_json": os.path.join(version_dir, "content_sprites.json"),
-            "transitions_json": os.path.join(version_dir, "content_transitions.json"),
-            "animations_json": os.path.join(version_dir, "content_animations.json"),
-            "sounds_json": os.path.join(version_dir, "content_sounds.json"),
-        })
+        base_paths.update(
+            {
+                "version_dir": version_dir,
+                "objects_json": os.path.join(version_dir, "content_objects.json"),
+                "sprites_json": os.path.join(version_dir, "content_sprites.json"),
+                "transitions_json": os.path.join(
+                    version_dir, "content_transitions.json"
+                ),
+                "animations_json": os.path.join(version_dir, "content_animations.json"),
+                "sounds_json": os.path.join(version_dir, "content_sounds.json"),
+                "categories_json": os.path.join(version_dir, "content_categories.json"),
+            }
+        )
     return base_paths
 
 
@@ -476,6 +542,7 @@ def get_git_tags():
     tags = result.stdout.splitlines()
     return natural_sort(tags)
 
+
 def get_matching_tags():
     tags = get_git_tags()
     return [tag for tag in tags if re.match(r"AnotherPlanet_v\d+", tag)]
@@ -495,6 +562,7 @@ def load_and_get_git_tags(data_source_path, how_many_latest_tags=1):
     if how_many_latest_tags > 0:
         tags = [tags[-how_many_latest_tags]]
     return tags
+
 
 def filter_tags_by_mode(tags, content_parser_mode, config):
     """
@@ -519,8 +587,10 @@ def filter_tags_by_mode(tags, content_parser_mode, config):
             raise ValueError(f"Unknown content_parser_mode: {content_parser_mode}")
     return tags
 
+
 def natural_sort(tags):
     """Sort tags in natural order."""
+
     def extract_key(tag):
         # Extract numeric parts for sorting
         return [int(part) if part.isdigit() else part for part in re.split(r'(\d+)', tag)]
@@ -533,12 +603,12 @@ def main():
     os.chdir(config["data_source_path"])
     # remember the current HEAD
     current_head = get_current_head()
-    
+
     # develop the list of tags to work over
     content_parser_mode = config.get("content_parser_mode", "working")
     tags = get_git_tags()
     tags = filter_tags_by_mode(tags, content_parser_mode, config)
-    
+
     # Loop through each tag
     for tag in tags:
         print(f"Processing: {tag}")
@@ -550,40 +620,45 @@ def main():
                 subprocess.run(['git', 'checkout', tag], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
             except subprocess.CalledProcessError as e:
                 print(f"Error processing tag {tag}: {e}")
-        
+
         # get paths
         paths = get_content_paths(config["data_source_path"], tag)
         # Ensure the version directory exists
         if not os.path.exists(paths["version_dir"]):
             os.makedirs(paths["version_dir"])
-        
-        # Regenerate JSON files
-        print("Regenerating objects...")
-        objects = regenerate_json_objects(paths["objects"])
-        write_json(objects, paths["objects_json"])
-        print(f"Regenerating objects is done: {len(objects)}")
+
+        # # Regenerate JSON files
+        # print("Regenerating objects...")
+        # objects = regenerate_json_objects(paths["objects"])
+        # write_json(objects, paths["objects_json"])
+        # print(f"Regenerating objects is done: {len(objects)}")
+        # print()
+        # print("Regenerating sprites...")
+        # sprites = regenerate_json_sprites(paths["sprites"])
+        # write_json(sprites, paths["sprites_json"])
+        # print(f"Regenerating sprites is done: {len(sprites)}")
+        # print()
+        # print("Regenerating transitions...")
+        # transitions = regenerate_json_transitions(paths["transitions"])
+        # write_json(transitions, paths["transitions_json"])
+        # print(f"Regenerating transitions is done: {len(transitions)}")
+        # print()
+        # print("Regenerating animations...")
+        # animations = regenerate_json_animations(paths["animations"])
+        # write_json(animations, paths["animations_json"])
+        # print(f"Regenerating animations is done: {len(animations)}")
+        # print()
+        # print("Regenerating sounds...")
+        # sounds = regenerate_json_sounds(paths["sounds"])
+        # write_json(sounds, paths["sounds_json"])
+        # print(f"Regenerating sounds is done: {len(sounds)}")
+        # print()
+        print("Regenerating categories...")
+        categories = regenerate_json_categories(paths["categories"])
+        write_json(categories, paths["categories_json"])
+        print(f"Regenerating categories is done: {len(categories)}")
         print()
-        print("Regenerating sprites...")
-        sprites = regenerate_json_sprites(paths["sprites"])
-        write_json(sprites, paths["sprites_json"])
-        print(f"Regenerating sprites is done: {len(sprites)}")
-        print()
-        print("Regenerating transitions...")
-        transitions = regenerate_json_transitions(paths["transitions"])
-        write_json(transitions, paths["transitions_json"])
-        print(f"Regenerating transitions is done: {len(transitions)}")
-        print()
-        print("Regenerating animations...")
-        animations = regenerate_json_animations(paths["animations"])
-        write_json(animations, paths["animations_json"])
-        print(f"Regenerating animations is done: {len(animations)}")
-        print()
-        print("Regenerating sounds...")
-        sounds = regenerate_json_sounds(paths["sounds"])
-        write_json(sounds, paths["sounds_json"])
-        print(f"Regenerating sounds is done: {len(sounds)}")
-        print()
-        
+
         # Also write to the latest JSON directory
         if content_parser_mode == "latest":
             paths = get_content_paths(config["data_source_path"], "latest")
@@ -594,7 +669,7 @@ def main():
             write_json(transitions, paths["transitions_json"])
             write_json(animations, paths["animations_json"])
             write_json(sounds, paths["sounds_json"])
-        
+
     # Checkout back to your original branch or commit
     if content_parser_mode != "working":
         print(f"Returning to previous HEAD: {current_head}")

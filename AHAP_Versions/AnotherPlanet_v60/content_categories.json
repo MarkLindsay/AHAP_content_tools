@@ -1,0 +1,2544 @@
+{
+    "1004": {
+        "category_objects_list": [
+            {
+                "category_item": "999",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1000",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "998",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1003",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "997",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1001",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1002",
+                "category_item_probability": null
+            }
+        ],
+        "category_type": "pattern",
+        "number_of_objects_in_category": "7",
+        "parent_object_id": "1004"
+    },
+    "1012": {
+        "category_objects_list": [
+            {
+                "category_item": "1005",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1007",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1006",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1008",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1009",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1010",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1011",
+                "category_item_probability": null
+            }
+        ],
+        "category_type": "pattern",
+        "number_of_objects_in_category": "7",
+        "parent_object_id": "1012"
+    },
+    "1014": {
+        "category_objects_list": [
+            {
+                "category_item": "961",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "959",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "960",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "962",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "964",
+                "category_item_probability": null
+            }
+        ],
+        "category_type": "pattern",
+        "number_of_objects_in_category": "5",
+        "parent_object_id": "1014"
+    },
+    "1015": {
+        "category_objects_list": [
+            {
+                "category_item": "496",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "974",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "975",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "976",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "977",
+                "category_item_probability": null
+            }
+        ],
+        "category_type": "pattern",
+        "number_of_objects_in_category": "5",
+        "parent_object_id": "1015"
+    },
+    "1036": {
+        "category_objects_list": [
+            {
+                "category_item": "765",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "766",
+                "category_item_probability": null
+            }
+        ],
+        "category_type": null,
+        "number_of_objects_in_category": "2",
+        "parent_object_id": "1036"
+    },
+    "1105": {
+        "category_objects_list": [
+            {
+                "category_item": "463",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "964",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "962",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "961",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "960",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "959",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "958",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "957",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "956",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "955",
+                "category_item_probability": null
+            }
+        ],
+        "category_type": null,
+        "number_of_objects_in_category": "10",
+        "parent_object_id": "1105"
+    },
+    "1175": {
+        "category_objects_list": [
+            {
+                "category_item": "1177",
+                "category_item_probability": "0.350000"
+            },
+            {
+                "category_item": "1170",
+                "category_item_probability": "0.400000"
+            },
+            {
+                "category_item": "1171",
+                "category_item_probability": "0.200000"
+            },
+            {
+                "category_item": "1196",
+                "category_item_probability": "0.050000"
+            }
+        ],
+        "category_type": "probSet",
+        "number_of_objects_in_category": "4",
+        "parent_object_id": "1175"
+    },
+    "1255": {
+        "category_objects_list": [
+            {
+                "category_item": "159",
+                "category_item_probability": "0.800000"
+            },
+            {
+                "category_item": "416",
+                "category_item_probability": "0.200000"
+            }
+        ],
+        "category_type": "probSet",
+        "number_of_objects_in_category": "2",
+        "parent_object_id": "1255"
+    },
+    "1405": {
+        "category_objects_list": [
+            {
+                "category_item": "1490",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1422",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1445",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1433",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1527",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1465",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1501",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1479",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1514",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1409",
+                "category_item_probability": null
+            }
+        ],
+        "category_type": "pattern",
+        "number_of_objects_in_category": "10",
+        "parent_object_id": "1405"
+    },
+    "1406": {
+        "category_objects_list": [
+            {
+                "category_item": "1487",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1416",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1443",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1430",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1525",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1461",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1499",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1474",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1509",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "430",
+                "category_item_probability": null
+            }
+        ],
+        "category_type": "pattern",
+        "number_of_objects_in_category": "10",
+        "parent_object_id": "1406"
+    },
+    "1407": {
+        "category_objects_list": [
+            {
+                "category_item": "1491",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1423",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1446",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1434",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1528",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1466",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1502",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1480",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1515",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1410",
+                "category_item_probability": null
+            }
+        ],
+        "category_type": "pattern",
+        "number_of_objects_in_category": "10",
+        "parent_object_id": "1407"
+    },
+    "1532": {
+        "category_objects_list": [
+            {
+                "category_item": "1489",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1420",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1447",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1432",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1531",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1464",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1505",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1481",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1518",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1489",
+                "category_item_probability": null
+            }
+        ],
+        "category_type": "pattern",
+        "number_of_objects_in_category": "10",
+        "parent_object_id": "1532"
+    },
+    "1533": {
+        "category_objects_list": [
+            {
+                "category_item": "1484",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1413",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1439",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1426",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1521",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1458",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1495",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1471",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1511",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "427",
+                "category_item_probability": null
+            }
+        ],
+        "category_type": "pattern",
+        "number_of_objects_in_category": "10",
+        "parent_object_id": "1533"
+    },
+    "1534": {
+        "category_objects_list": [
+            {
+                "category_item": "1485",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1414",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1440",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1427",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1522",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1459",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1496",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1472",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1512",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "431",
+                "category_item_probability": null
+            }
+        ],
+        "category_type": "pattern",
+        "number_of_objects_in_category": "10",
+        "parent_object_id": "1534"
+    },
+    "1535": {
+        "category_objects_list": [
+            {
+                "category_item": "1483",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1412",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1438",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1425",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1520",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1457",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1494",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1470",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1510",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "424",
+                "category_item_probability": null
+            }
+        ],
+        "category_type": "pattern",
+        "number_of_objects_in_category": "10",
+        "parent_object_id": "1535"
+    },
+    "1536": {
+        "category_objects_list": [
+            {
+                "category_item": "1482",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1411",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1437",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1424",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1519",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1456",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1493",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1469",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1506",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "428",
+                "category_item_probability": null
+            }
+        ],
+        "category_type": "pattern",
+        "number_of_objects_in_category": "10",
+        "parent_object_id": "1536"
+    },
+    "1537": {
+        "category_objects_list": [
+            {
+                "category_item": "1492",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1419",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1449",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1436",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1530",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1468",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1504",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1477",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1517",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "432",
+                "category_item_probability": null
+            }
+        ],
+        "category_type": "pattern",
+        "number_of_objects_in_category": "10",
+        "parent_object_id": "1537"
+    },
+    "1538": {
+        "category_objects_list": [
+            {
+                "category_item": "1488",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1417",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1444",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1431",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1526",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1462",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1500",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1475",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1507",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "433",
+                "category_item_probability": null
+            }
+        ],
+        "category_type": "pattern",
+        "number_of_objects_in_category": "10",
+        "parent_object_id": "1538"
+    },
+    "1539": {
+        "category_objects_list": [
+            {
+                "category_item": "429",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1415",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1442",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1429",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1524",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1460",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1498",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1473",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1508",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "429",
+                "category_item_probability": null
+            }
+        ],
+        "category_type": "pattern",
+        "number_of_objects_in_category": "10",
+        "parent_object_id": "1539"
+    },
+    "1540": {
+        "category_objects_list": [
+            {
+                "category_item": "434",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1418",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1435",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1448",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1529",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1467",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1503",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1476",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1516",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "434",
+                "category_item_probability": null
+            }
+        ],
+        "category_type": "pattern",
+        "number_of_objects_in_category": "10",
+        "parent_object_id": "1540"
+    },
+    "1573": {
+        "category_objects_list": [
+            {
+                "category_item": "708",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "399",
+                "category_item_probability": null
+            }
+        ],
+        "category_type": "pattern",
+        "number_of_objects_in_category": "2",
+        "parent_object_id": "1573"
+    },
+    "1574": {
+        "category_objects_list": [
+            {
+                "category_item": "246",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "398",
+                "category_item_probability": null
+            }
+        ],
+        "category_type": "pattern",
+        "number_of_objects_in_category": "2",
+        "parent_object_id": "1574"
+    },
+    "1612": {
+        "category_objects_list": [
+            {
+                "category_item": "1611",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1610",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1609",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1608",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1607",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1606",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1605",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1604",
+                "category_item_probability": null
+            }
+        ],
+        "category_type": "pattern",
+        "number_of_objects_in_category": "8",
+        "parent_object_id": "1612"
+    },
+    "1613": {
+        "category_objects_list": [
+            {
+                "category_item": "1602",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1601",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1600",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1599",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1598",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1597",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1596",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1595",
+                "category_item_probability": null
+            }
+        ],
+        "category_type": "pattern",
+        "number_of_objects_in_category": "8",
+        "parent_object_id": "1613"
+    },
+    "1614": {
+        "category_objects_list": [
+            {
+                "category_item": "1603",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1602",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1601",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1600",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1599",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1598",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1597",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1596",
+                "category_item_probability": null
+            }
+        ],
+        "category_type": "pattern",
+        "number_of_objects_in_category": "8",
+        "parent_object_id": "1614"
+    },
+    "1619": {
+        "category_objects_list": [
+            {
+                "category_item": "1616",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1617",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1618",
+                "category_item_probability": null
+            }
+        ],
+        "category_type": "pattern",
+        "number_of_objects_in_category": "3",
+        "parent_object_id": "1619"
+    },
+    "1620": {
+        "category_objects_list": [
+            {
+                "category_item": "246",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "246",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "246",
+                "category_item_probability": null
+            }
+        ],
+        "category_type": "pattern",
+        "number_of_objects_in_category": "3",
+        "parent_object_id": "1620"
+    },
+    "1621": {
+        "category_objects_list": [
+            {
+                "category_item": "104",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "119",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "738",
+                "category_item_probability": null
+            }
+        ],
+        "category_type": "pattern",
+        "number_of_objects_in_category": "3",
+        "parent_object_id": "1621"
+    },
+    "1658": {
+        "category_objects_list": [
+            {
+                "category_item": "1634",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1635",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1636",
+                "category_item_probability": null
+            }
+        ],
+        "category_type": "pattern",
+        "number_of_objects_in_category": "3",
+        "parent_object_id": "1658"
+    },
+    "389": {
+        "category_objects_list": [
+            {
+                "category_item": "382",
+                "category_item_probability": "0.166667"
+            },
+            {
+                "category_item": "349",
+                "category_item_probability": "0.166667"
+            },
+            {
+                "category_item": "348",
+                "category_item_probability": "0.166667"
+            },
+            {
+                "category_item": "347",
+                "category_item_probability": "0.166667"
+            },
+            {
+                "category_item": "346",
+                "category_item_probability": "0.166667"
+            },
+            {
+                "category_item": "345",
+                "category_item_probability": "0.166667"
+            }
+        ],
+        "category_type": "probSet",
+        "number_of_objects_in_category": "6",
+        "parent_object_id": "389"
+    },
+    "391": {
+        "category_objects_list": [
+            {
+                "category_item": "388",
+                "category_item_probability": "0.166667"
+            },
+            {
+                "category_item": "379",
+                "category_item_probability": "0.166667"
+            },
+            {
+                "category_item": "378",
+                "category_item_probability": "0.166667"
+            },
+            {
+                "category_item": "377",
+                "category_item_probability": "0.166667"
+            },
+            {
+                "category_item": "376",
+                "category_item_probability": "0.166667"
+            },
+            {
+                "category_item": "375",
+                "category_item_probability": "0.166667"
+            }
+        ],
+        "category_type": "probSet",
+        "number_of_objects_in_category": "6",
+        "parent_object_id": "391"
+    },
+    "392": {
+        "category_objects_list": [
+            {
+                "category_item": "388",
+                "category_item_probability": "0.021739"
+            },
+            {
+                "category_item": "387",
+                "category_item_probability": "0.021739"
+            },
+            {
+                "category_item": "386",
+                "category_item_probability": "0.021739"
+            },
+            {
+                "category_item": "385",
+                "category_item_probability": "0.021739"
+            },
+            {
+                "category_item": "384",
+                "category_item_probability": "0.021739"
+            },
+            {
+                "category_item": "383",
+                "category_item_probability": "0.021739"
+            },
+            {
+                "category_item": "381",
+                "category_item_probability": "0.021739"
+            },
+            {
+                "category_item": "380",
+                "category_item_probability": "0.021739"
+            },
+            {
+                "category_item": "349",
+                "category_item_probability": "0.021739"
+            },
+            {
+                "category_item": "348",
+                "category_item_probability": "0.021739"
+            },
+            {
+                "category_item": "382",
+                "category_item_probability": "0.021739"
+            },
+            {
+                "category_item": "346",
+                "category_item_probability": "0.021739"
+            },
+            {
+                "category_item": "347",
+                "category_item_probability": "0.021739"
+            },
+            {
+                "category_item": "377",
+                "category_item_probability": "0.021739"
+            },
+            {
+                "category_item": "376",
+                "category_item_probability": "0.021739"
+            },
+            {
+                "category_item": "374",
+                "category_item_probability": "0.021739"
+            },
+            {
+                "category_item": "371",
+                "category_item_probability": "0.021739"
+            },
+            {
+                "category_item": "369",
+                "category_item_probability": "0.021739"
+            },
+            {
+                "category_item": "366",
+                "category_item_probability": "0.021739"
+            },
+            {
+                "category_item": "364",
+                "category_item_probability": "0.021739"
+            },
+            {
+                "category_item": "361",
+                "category_item_probability": "0.021739"
+            },
+            {
+                "category_item": "359",
+                "category_item_probability": "0.021739"
+            },
+            {
+                "category_item": "356",
+                "category_item_probability": "0.021739"
+            },
+            {
+                "category_item": "354",
+                "category_item_probability": "0.021739"
+            },
+            {
+                "category_item": "351",
+                "category_item_probability": "0.021739"
+            },
+            {
+                "category_item": "344",
+                "category_item_probability": "0.021739"
+            },
+            {
+                "category_item": "342",
+                "category_item_probability": "0.021739"
+            },
+            {
+                "category_item": "337",
+                "category_item_probability": "0.021739"
+            },
+            {
+                "category_item": "335",
+                "category_item_probability": "0.021739"
+            },
+            {
+                "category_item": "379",
+                "category_item_probability": "0.021739"
+            },
+            {
+                "category_item": "378",
+                "category_item_probability": "0.021739"
+            },
+            {
+                "category_item": "373",
+                "category_item_probability": "0.021739"
+            },
+            {
+                "category_item": "372",
+                "category_item_probability": "0.021739"
+            },
+            {
+                "category_item": "368",
+                "category_item_probability": "0.021739"
+            },
+            {
+                "category_item": "367",
+                "category_item_probability": "0.021739"
+            },
+            {
+                "category_item": "363",
+                "category_item_probability": "0.021739"
+            },
+            {
+                "category_item": "362",
+                "category_item_probability": "0.021739"
+            },
+            {
+                "category_item": "358",
+                "category_item_probability": "0.021739"
+            },
+            {
+                "category_item": "357",
+                "category_item_probability": "0.021739"
+            },
+            {
+                "category_item": "353",
+                "category_item_probability": "0.021739"
+            },
+            {
+                "category_item": "352",
+                "category_item_probability": "0.021739"
+            },
+            {
+                "category_item": "343",
+                "category_item_probability": "0.021739"
+            },
+            {
+                "category_item": "341",
+                "category_item_probability": "0.021739"
+            },
+            {
+                "category_item": "338",
+                "category_item_probability": "0.021739"
+            },
+            {
+                "category_item": "336",
+                "category_item_probability": "0.021739"
+            },
+            {
+                "category_item": "142",
+                "category_item_probability": "0.021739"
+            }
+        ],
+        "category_type": "probSet",
+        "number_of_objects_in_category": "46",
+        "parent_object_id": "392"
+    },
+    "394": {
+        "category_objects_list": [
+            {
+                "category_item": "388",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "387",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "386",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "385",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "384",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "383",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "381",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "380",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "349",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "348",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "382",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "345",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "346",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "347",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "377",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "376",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "374",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "371",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "369",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "366",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "364",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "361",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "359",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "356",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "354",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "351",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "344",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "342",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "337",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "335",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "378",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "379",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "373",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "372",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "368",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "367",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "363",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "362",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "358",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "357",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "353",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "352",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "343",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "341",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "338",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "336",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "375",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "370",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "365",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "360",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "355",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "350",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "340",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "339",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "142",
+                "category_item_probability": null
+            }
+        ],
+        "category_type": "pattern",
+        "number_of_objects_in_category": "55",
+        "parent_object_id": "394"
+    },
+    "499": {
+        "category_objects_list": [
+            {
+                "category_item": "454",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "455",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "456",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "968",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "967",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "966",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "965",
+                "category_item_probability": null
+            }
+        ],
+        "category_type": "pattern",
+        "number_of_objects_in_category": "7",
+        "parent_object_id": "499"
+    },
+    "500": {
+        "category_objects_list": [
+            {
+                "category_item": "505",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "510",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "509",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1623",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1624",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1625",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "985",
+                "category_item_probability": null
+            }
+        ],
+        "category_type": "pattern",
+        "number_of_objects_in_category": "7",
+        "parent_object_id": "500"
+    },
+    "501": {
+        "category_objects_list": [
+            {
+                "category_item": "498",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "497",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "496",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "974",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "975",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "976",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "977",
+                "category_item_probability": null
+            }
+        ],
+        "category_type": "pattern",
+        "number_of_objects_in_category": "7",
+        "parent_object_id": "501"
+    },
+    "502": {
+        "category_objects_list": [
+            {
+                "category_item": "508",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "507",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "506",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "981",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "982",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "983",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "984",
+                "category_item_probability": null
+            }
+        ],
+        "category_type": "pattern",
+        "number_of_objects_in_category": "7",
+        "parent_object_id": "502"
+    },
+    "56": {
+        "category_objects_list": [
+            {
+                "category_item": "132",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "296",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "238",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "236",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "419",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "434",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "477",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "495",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "494",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "513",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "696",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "697",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "544",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "546",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "559",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "560",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "561",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "582",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "714",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "748",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "773",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "769",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "768",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "767",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "859",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "900",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "901",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "902",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "903",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "904",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "907",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "908",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "909",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "949",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "944",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "943",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1019",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1200",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1201",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1202",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "148",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1270",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1297",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1307",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1329",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1331",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1554",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1564",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1575",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1587",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1594",
+                "category_item_probability": null
+            }
+        ],
+        "category_type": "pattern",
+        "number_of_objects_in_category": "51",
+        "parent_object_id": "56"
+    },
+    "57": {
+        "category_objects_list": [
+            {
+                "category_item": "129",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "295",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "237",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "235",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "246",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "429",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "476",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "487",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "493",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "242",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "694",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "695",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "545",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "543",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "562",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "563",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "564",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "567",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "244",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "760",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "772",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "764",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "765",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "766",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "858",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "882",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "127",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "623",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "126",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "159",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "147",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "149",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "146",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "945",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "942",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "936",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1018",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "789",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "738",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1180",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "535",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1271",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "643",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1304",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "445",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "446",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1553",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1562",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1570",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1586",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "1593",
+                "category_item_probability": null
+            }
+        ],
+        "category_type": "pattern",
+        "number_of_objects_in_category": "51",
+        "parent_object_id": "57"
+    },
+    "625": {
+        "category_objects_list": [
+            {
+                "category_item": "312",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "307",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "315",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "310",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "316",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "311",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "314",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "309",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "308",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "313",
+                "category_item_probability": null
+            }
+        ],
+        "category_type": "pattern",
+        "number_of_objects_in_category": "10",
+        "parent_object_id": "625"
+    },
+    "626": {
+        "category_objects_list": [
+            {
+                "category_item": "325",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "330",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "321",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "327",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "320",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "326",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "322",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "328",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "329",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "324",
+                "category_item_probability": null
+            }
+        ],
+        "category_type": "pattern",
+        "number_of_objects_in_category": "10",
+        "parent_object_id": "626"
+    },
+    "664": {
+        "category_objects_list": [
+            {
+                "category_item": "663",
+                "category_item_probability": "0.050000"
+            },
+            {
+                "category_item": "662",
+                "category_item_probability": "0.050000"
+            },
+            {
+                "category_item": "661",
+                "category_item_probability": "0.050000"
+            },
+            {
+                "category_item": "660",
+                "category_item_probability": "0.050000"
+            },
+            {
+                "category_item": "659",
+                "category_item_probability": "0.050000"
+            },
+            {
+                "category_item": "658",
+                "category_item_probability": "0.050000"
+            },
+            {
+                "category_item": "657",
+                "category_item_probability": "0.050000"
+            },
+            {
+                "category_item": "656",
+                "category_item_probability": "0.050000"
+            },
+            {
+                "category_item": "655",
+                "category_item_probability": "0.050000"
+            },
+            {
+                "category_item": "654",
+                "category_item_probability": "0.050000"
+            },
+            {
+                "category_item": "653",
+                "category_item_probability": "0.050000"
+            },
+            {
+                "category_item": "652",
+                "category_item_probability": "0.050000"
+            },
+            {
+                "category_item": "651",
+                "category_item_probability": "0.050000"
+            },
+            {
+                "category_item": "650",
+                "category_item_probability": "0.050000"
+            },
+            {
+                "category_item": "649",
+                "category_item_probability": "0.050000"
+            },
+            {
+                "category_item": "648",
+                "category_item_probability": "0.050000"
+            },
+            {
+                "category_item": "647",
+                "category_item_probability": "0.050000"
+            },
+            {
+                "category_item": "646",
+                "category_item_probability": "0.050000"
+            },
+            {
+                "category_item": "645",
+                "category_item_probability": "0.050000"
+            },
+            {
+                "category_item": "644",
+                "category_item_probability": "0.050000"
+            }
+        ],
+        "category_type": "probSet",
+        "number_of_objects_in_category": "20",
+        "parent_object_id": "664"
+    },
+    "687": {
+        "category_objects_list": [
+            {
+                "category_item": "643",
+                "category_item_probability": "0.500000"
+            },
+            {
+                "category_item": "642",
+                "category_item_probability": "0.500000"
+            }
+        ],
+        "category_type": "probSet",
+        "number_of_objects_in_category": "2",
+        "parent_object_id": "687"
+    },
+    "698": {
+        "category_objects_list": [
+            {
+                "category_item": "695",
+                "category_item_probability": "0.200000"
+            },
+            {
+                "category_item": "694",
+                "category_item_probability": "0.800000"
+            }
+        ],
+        "category_type": "probSet",
+        "number_of_objects_in_category": "2",
+        "parent_object_id": "698"
+    },
+    "719": {
+        "category_objects_list": [
+            {
+                "category_item": "155",
+                "category_item_probability": "0.250000"
+            },
+            {
+                "category_item": "154",
+                "category_item_probability": "0.250000"
+            },
+            {
+                "category_item": "156",
+                "category_item_probability": "0.250000"
+            },
+            {
+                "category_item": "802",
+                "category_item_probability": "0.250000"
+            }
+        ],
+        "category_type": "probSet",
+        "number_of_objects_in_category": "4",
+        "parent_object_id": "719"
+    },
+    "807": {
+        "category_objects_list": [
+            {
+                "category_item": "818",
+                "category_item_probability": null
+            }
+        ],
+        "category_type": null,
+        "number_of_objects_in_category": "1",
+        "parent_object_id": "807"
+    },
+    "808": {
+        "category_objects_list": [
+            {
+                "category_item": "817",
+                "category_item_probability": null
+            }
+        ],
+        "category_type": null,
+        "number_of_objects_in_category": "1",
+        "parent_object_id": "808"
+    },
+    "809": {
+        "category_objects_list": [
+            {
+                "category_item": "816",
+                "category_item_probability": null
+            }
+        ],
+        "category_type": null,
+        "number_of_objects_in_category": "1",
+        "parent_object_id": "809"
+    },
+    "810": {
+        "category_objects_list": [
+            {
+                "category_item": "815",
+                "category_item_probability": null
+            }
+        ],
+        "category_type": null,
+        "number_of_objects_in_category": "1",
+        "parent_object_id": "810"
+    },
+    "811": {
+        "category_objects_list": [
+            {
+                "category_item": "814",
+                "category_item_probability": null
+            }
+        ],
+        "category_type": null,
+        "number_of_objects_in_category": "1",
+        "parent_object_id": "811"
+    },
+    "813": {
+        "category_objects_list": [
+            {
+                "category_item": "812",
+                "category_item_probability": null
+            }
+        ],
+        "category_type": null,
+        "number_of_objects_in_category": "1",
+        "parent_object_id": "813"
+    },
+    "822": {
+        "category_objects_list": [
+            {
+                "category_item": "765",
+                "category_item_probability": "0.333333"
+            },
+            {
+                "category_item": "772",
+                "category_item_probability": "0.333333"
+            },
+            {
+                "category_item": "766",
+                "category_item_probability": "0.333333"
+            }
+        ],
+        "category_type": "probSet",
+        "number_of_objects_in_category": "3",
+        "parent_object_id": "822"
+    },
+    "832": {
+        "category_objects_list": [
+            {
+                "category_item": "831",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "834",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "837",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "836",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "838",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "839",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "840",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "841",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "835",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "842",
+                "category_item_probability": null
+            }
+        ],
+        "category_type": "pattern",
+        "number_of_objects_in_category": "10",
+        "parent_object_id": "832"
+    },
+    "906": {
+        "category_objects_list": [
+            {
+                "category_item": "147",
+                "category_item_probability": "0.250000"
+            },
+            {
+                "category_item": "149",
+                "category_item_probability": "0.250000"
+            },
+            {
+                "category_item": "148",
+                "category_item_probability": "0.250000"
+            },
+            {
+                "category_item": "146",
+                "category_item_probability": "0.250000"
+            }
+        ],
+        "category_type": "probSet",
+        "number_of_objects_in_category": "4",
+        "parent_object_id": "906"
+    },
+    "954": {
+        "category_objects_list": [
+            {
+                "category_item": "948",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "461",
+                "category_item_probability": null
+            }
+        ],
+        "category_type": null,
+        "number_of_objects_in_category": "2",
+        "parent_object_id": "954"
+    },
+    "978": {
+        "category_objects_list": [
+            {
+                "category_item": "150",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "778",
+                "category_item_probability": null
+            }
+        ],
+        "category_type": null,
+        "number_of_objects_in_category": "2",
+        "parent_object_id": "978"
+    },
+    "994": {
+        "category_objects_list": [
+            {
+                "category_item": "992",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "993",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "996",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "991",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "989",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "988",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "990",
+                "category_item_probability": null
+            }
+        ],
+        "category_type": "pattern",
+        "number_of_objects_in_category": "7",
+        "parent_object_id": "994"
+    },
+    "995": {
+        "category_objects_list": [
+            {
+                "category_item": "235",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "237",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "766",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "778",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "772",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "765",
+                "category_item_probability": null
+            },
+            {
+                "category_item": "764",
+                "category_item_probability": null
+            }
+        ],
+        "category_type": "pattern",
+        "number_of_objects_in_category": "7",
+        "parent_object_id": "995"
+    }
+}

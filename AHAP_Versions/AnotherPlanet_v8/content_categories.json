@@ -1,0 +1,118 @@
+{
+    "164": {
+        "category_objects_list": [
+            {
+                "category_item": "160",
+                "category_item_probability": "0.150000"
+            },
+            {
+                "category_item": "165",
+                "category_item_probability": "0.100000"
+            },
+            {
+                "category_item": "166",
+                "category_item_probability": "0.100000"
+            },
+            {
+                "category_item": "167",
+                "category_item_probability": "0.100000"
+            },
+            {
+                "category_item": "168",
+                "category_item_probability": "0.100000"
+            },
+            {
+                "category_item": "184",
+                "category_item_probability": "0.450000"
+            }
+        ],
+        "category_type": "probSet",
+        "number_of_objects_in_category": "6",
+        "parent_object_id": "164"
+    },
+    "169": {
+        "category_objects_list": [
+            {
+                "category_item": "161",
+                "category_item_probability": "0.200000"
+            },
+            {
+                "category_item": "181",
+                "category_item_probability": "0.150000"
+            },
+            {
+                "category_item": "182",
+                "category_item_probability": "0.150000"
+            },
+            {
+                "category_item": "183",
+                "category_item_probability": "0.150000"
+            },
+            {
+                "category_item": "185",
+                "category_item_probability": "0.350000"
+            }
+        ],
+        "category_type": "probSet",
+        "number_of_objects_in_category": "5",
+        "parent_object_id": "169"
+    },
+    "170": {
+        "category_objects_list": [
+            {
+                "category_item": "162",
+                "category_item_probability": "0.350000"
+            },
+            {
+                "category_item": "180",
+                "category_item_probability": "0.100000"
+            },
+            {
+                "category_item": "179",
+                "category_item_probability": "0.100000"
+            },
+            {
+                "category_item": "178",
+                "category_item_probability": "0.100000"
+            },
+            {
+                "category_item": "186",
+                "category_item_probability": "0.350000"
+            }
+        ],
+        "category_type": "probSet",
+        "number_of_objects_in_category": "5",
+        "parent_object_id": "170"
+    },
+    "171": {
+        "category_objects_list": [
+            {
+                "category_item": "138",
+                "category_item_probability": "0.660000"
+            },
+            {
+                "category_item": "176",
+                "category_item_probability": "0.020000"
+            },
+            {
+                "category_item": "175",
+                "category_item_probability": "0.080000"
+            },
+            {
+                "category_item": "174",
+                "category_item_probability": "0.080000"
+            },
+            {
+                "category_item": "173",
+                "category_item_probability": "0.080000"
+            },
+            {
+                "category_item": "172",
+                "category_item_probability": "0.080000"
+            }
+        ],
+        "category_type": "probSet",
+        "number_of_objects_in_category": "6",
+        "parent_object_id": "171"
+    }
+}
